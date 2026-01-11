@@ -83,7 +83,7 @@ public/
 1. Click "BUILD" to start.
 2. Select components from the menu (CPU, GPU, etc.).
 3. Use filters to narrow down options.
-4. Click on 3D model parts to view specs.
+4. Click on 3D model parts to change component.
 5. Compare components or save your build.
 
 ## Contributing
