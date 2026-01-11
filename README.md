@@ -31,7 +31,7 @@ A modern, interactive 3D PC building simulator built with React and Three.js. Th
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/pc-configurator.git
+   git clone https://github.com/CoolZero21/pc-configurator.git
    cd pc-configurator
    ```
 
