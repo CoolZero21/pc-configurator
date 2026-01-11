@@ -1,0 +1,8306 @@
+[
+  {
+    "name": "Seasonic Core GM 80 Plus Gold, semi-modular",
+    "producer": "Seasonic",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 1
+  },
+  {
+    "name": "Aerocool Project 7",
+    "producer": "Aerocool",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 2
+  },
+  {
+    "name": "Aerocool Project 7",
+    "producer": "Aerocool",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 3
+  },
+  {
+    "name": "be quiet! Dark Power Pro P11 modular",
+    "producer": "be quiet!",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 4
+  },
+  {
+    "name": "be quiet! Dark Power Pro P11 modular",
+    "producer": "be quiet!",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 5
+  },
+  {
+    "name": "be quiet! Dark Power Pro P11 modular",
+    "producer": "be quiet!",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 6
+  },
+  {
+    "name": "be quiet! Dark Power Pro P11 modular",
+    "producer": "be quiet!",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 7
+  },
+  {
+    "name": "be quiet! Pure Power 11 80 PLUS Bronze",
+    "producer": "be quiet!",
+    "watt": "300",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 8
+  },
+  {
+    "name": "be quiet! Pure Power 11 80 PLUS Gold",
+    "producer": "be quiet!",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 9
+  },
+  {
+    "name": "be quiet! Pure Power 11 80 PLUS Gold",
+    "producer": "be quiet!",
+    "watt": "400",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 10
+  },
+  {
+    "name": "be quiet! Pure Power 11 80 PLUS Gold",
+    "producer": "be quiet!",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 11
+  },
+  {
+    "name": "be quiet! Pure Power 11 80 PLUS Gold",
+    "producer": "be quiet!",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 12
+  },
+  {
+    "name": "be quiet! Pure Power 11 CM 80 PLUS Gold",
+    "producer": "be quiet!",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 13
+  },
+  {
+    "name": "be quiet! Pure Power 11 CM 80 PLUS Gold",
+    "producer": "be quiet!",
+    "watt": "400",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 14
+  },
+  {
+    "name": "be quiet! Pure Power 11 CM 80 PLUS Gold",
+    "producer": "be quiet!",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 15
+  },
+  {
+    "name": "be quiet! Pure Power 11 CM 80 PLUS Gold",
+    "producer": "be quiet!",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 16
+  },
+  {
+    "name": "be quiet! Straight Power 11",
+    "producer": "be quiet!",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 17
+  },
+  {
+    "name": "be quiet! Straight Power 11",
+    "producer": "be quiet!",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 18
+  },
+  {
+    "name": "Cooler Master MasterWatt",
+    "producer": "Cooler Master",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 19
+  },
+  {
+    "name": "Corsair CX450",
+    "producer": "Corsair",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 20
+  },
+  {
+    "name": "Corsair CX450M",
+    "producer": "Corsair",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 21
+  },
+  {
+    "name": "Corsair CX550",
+    "producer": "Corsair",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 22
+  },
+  {
+    "name": "Corsair RM Series RM1000i",
+    "producer": "Corsair",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 23
+  },
+  {
+    "name": "Corsair RM Series RM650",
+    "producer": "Corsair",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 24
+  },
+  {
+    "name": "Corsair RM Series RM750",
+    "producer": "Corsair",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 25
+  },
+  {
+    "name": "Corsair RM Series RM850",
+    "producer": "Corsair",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 26
+  },
+  {
+    "name": "Corsair RM Series RM850i",
+    "producer": "Corsair",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 27
+  },
+  {
+    "name": "Corsair RM550x",
+    "producer": "Corsair",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 28
+  },
+  {
+    "name": "Corsair RM750x",
+    "producer": "Corsair",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 29
+  },
+  {
+    "name": "Corsair RMX Series RM1000x",
+    "producer": "Corsair",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 30
+  },
+  {
+    "name": "Corsair RMX Series RM750x",
+    "producer": "Corsair",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 31
+  },
+  {
+    "name": "Corsair RMX Series RM850x",
+    "producer": "Corsair",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 32
+  },
+  {
+    "name": "Corsair RMX Series RMX550",
+    "producer": "Corsair",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 33
+  },
+  {
+    "name": "Corsair RMX Series RMX550x",
+    "producer": "Corsair",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 34
+  },
+  {
+    "name": "Corsair RMX Series RMX650",
+    "producer": "Corsair",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 35
+  },
+  {
+    "name": "Corsair RMX Series RMX650x",
+    "producer": "Corsair",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 36
+  },
+  {
+    "name": "Corsair RMX Series RMX750",
+    "producer": "Corsair",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 37
+  },
+  {
+    "name": "Corsair RMX Series RMX850",
+    "producer": "Corsair",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 38
+  },
+  {
+    "name": "Corsair SF Series SF450 80 PLUS Gold SFX",
+    "producer": "Corsair",
+    "watt": "450",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 39
+  },
+  {
+    "name": "Corsair TX550M",
+    "producer": "Corsair",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 40
+  },
+  {
+    "name": "Corsair TX550M Series Modular",
+    "producer": "Corsair",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 41
+  },
+  {
+    "name": "Corsair TX650M",
+    "producer": "Corsair",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 42
+  },
+  {
+    "name": "Corsair TX650M Series Modular",
+    "producer": "Corsair",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 43
+  },
+  {
+    "name": "Corsair TX750M",
+    "producer": "Corsair",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 44
+  },
+  {
+    "name": "Corsair TX750M Series Modular",
+    "producer": "Corsair",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 45
+  },
+  {
+    "name": "Corsair TX850M",
+    "producer": "Corsair",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 46
+  },
+  {
+    "name": "Corsair TX850M Series Modular",
+    "producer": "Corsair",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 47
+  },
+  {
+    "name": "Corsair Vengeance Series V500",
+    "producer": "Corsair",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 48
+  },
+  {
+    "name": "Corsair Vengeance Series V550M",
+    "producer": "Corsair",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 49
+  },
+  {
+    "name": "Cougar VTX",
+    "producer": "Cougar",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 50
+  },
+  {
+    "name": "EVGA 450B",
+    "producer": "EVGA",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 51
+  },
+  {
+    "name": "EVGA 500B",
+    "producer": "EVGA",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 52
+  },
+  {
+    "name": "EVGA SuperNOVA 1000 PS",
+    "producer": "EVGA",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 53
+  },
+  {
+    "name": "EVGA SuperNOVA 550 G3",
+    "producer": "EVGA",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 54
+  },
+  {
+    "name": "EVGA SuperNOVA 650 G3",
+    "producer": "EVGA",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 55
+  },
+  {
+    "name": "EVGA Supernova 750 G2L",
+    "producer": "EVGA",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 56
+  },
+  {
+    "name": "EVGA SuperNOVA 750 G3",
+    "producer": "EVGA",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 57
+  },
+  {
+    "name": "EVGA SuperNOVA 850 G2",
+    "producer": "EVGA",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 58
+  },
+  {
+    "name": "EVGA SuperNOVA G2",
+    "producer": "EVGA",
+    "watt": "1600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 59
+  },
+  {
+    "name": "EVGA SuperNOVA G2",
+    "producer": "EVGA",
+    "watt": "1300",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 60
+  },
+  {
+    "name": "EVGA SuperNOVA G2",
+    "producer": "EVGA",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 61
+  },
+  {
+    "name": "EVGA SuperNOVA G2",
+    "producer": "EVGA",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 62
+  },
+  {
+    "name": "EVGA SuperNOVA G2",
+    "producer": "EVGA",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 63
+  },
+  {
+    "name": "EVGA SuperNOVA G2",
+    "producer": "EVGA",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 64
+  },
+  {
+    "name": "EVGA SuperNOVA G3",
+    "producer": "EVGA",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 65
+  },
+  {
+    "name": "EVGA SuperNOVA G3",
+    "producer": "EVGA",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 66
+  },
+  {
+    "name": "EVGA SuperNOVA P2",
+    "producer": "EVGA",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 67
+  },
+  {
+    "name": "EVGA SuperNOVA P2",
+    "producer": "EVGA",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 68
+  },
+  {
+    "name": "EVGA SuperNOVA P2",
+    "producer": "EVGA",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 69
+  },
+  {
+    "name": "EVGA SuperNOVA P2 80 PLUS Platinum",
+    "producer": "EVGA",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 70
+  },
+  {
+    "name": "MSI MAG A1250GL PCIE5",
+    "producer": "MSI",
+    "watt": "1250",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 71
+  },
+  {
+    "name": "MSI MAG A750GL PCIe5",
+    "producer": "MSI",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 72
+  },
+  {
+    "name": "MSI MAG A850GL PCIE5",
+    "producer": "MSI",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 73
+  },
+  {
+    "name": "MSI Power Supply MEG Ai1000P PCIE5",
+    "producer": "MSI",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 74
+  },
+  {
+    "name": "Seasonic Core GC 80 Plus Gold",
+    "producer": "Seasonic",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 75
+  },
+  {
+    "name": "Seasonic Core GC 80 PLUS Gold",
+    "producer": "Seasonic",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 76
+  },
+  {
+    "name": "Seasonic Core GM 80 PLUS Gold",
+    "producer": "Seasonic",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 77
+  },
+  {
+    "name": "Seasonic FOCUS 550 GOLD",
+    "producer": "Seasonic",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 78
+  },
+  {
+    "name": "Seasonic Focus GX 80 Plus Gold",
+    "producer": "Seasonic",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 79
+  },
+  {
+    "name": "Seasonic Focus GX 80 Plus Gold",
+    "producer": "Seasonic",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 80
+  },
+  {
+    "name": "Seasonic Focus GX 80 Plus Gold",
+    "producer": "Seasonic",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 81
+  },
+  {
+    "name": "Seasonic Focus GX 80 PLUS Gold",
+    "producer": "Seasonic",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 82
+  },
+  {
+    "name": "Seasonic Focus PX 80 Plus Platinum 750 Watt",
+    "producer": "Seasonic",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 83
+  },
+  {
+    "name": "Seasonic P-Series, Fanless 80 PLUS Platinum",
+    "producer": "Seasonic",
+    "watt": "400",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 84
+  },
+  {
+    "name": "Seasonic PRIME 650 GOLD",
+    "producer": "Seasonic",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 85
+  },
+  {
+    "name": "Seasonic PRIME 750 W Platinum",
+    "producer": "Seasonic",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 86
+  },
+  {
+    "name": "Seasonic Prime PX 80 PLUS Platinum",
+    "producer": "Seasonic",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 87
+  },
+  {
+    "name": "Seasonic Prime Ultra 80 PLUS Platinum",
+    "producer": "Seasonic",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 88
+  },
+  {
+    "name": "Seasonic Snow Silent",
+    "producer": "Seasonic",
+    "watt": "1050",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 89
+  },
+  {
+    "name": "Silverstone SST-ST45SF V2.0 Strider Series SFX",
+    "producer": "Silverstone",
+    "watt": "450",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 90
+  },
+  {
+    "name": "Silverstone SST-SX500-LG v2.0 SFX-L 80 PLUS Gold",
+    "producer": "Silverstone",
+    "watt": "500",
+    "size": "SFX-L",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 91
+  },
+  {
+    "name": "Silverstone SST-SX600-G Strider Gold Series",
+    "producer": "Silverstone",
+    "watt": "600",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 92
+  },
+  {
+    "name": "Aerocool Aero Bronze 500W 80 PLUS Bronze",
+    "producer": "Aerocool",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 93
+  },
+  {
+    "name": "Aerocool Aero Bronze 550M 80 PLUS Bronze",
+    "producer": "Aerocool",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 94
+  },
+  {
+    "name": "Aerocool Aero Bronze 550W 80 PLUS Bronze",
+    "producer": "Aerocool",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 95
+  },
+  {
+    "name": "Aerocool Aero Bronze 600W 80 PLUS Bronze",
+    "producer": "Aerocool",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 96
+  },
+  {
+    "name": "Aerocool Aero Bronze 650M 80 PLUS Bronze",
+    "producer": "Aerocool",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 97
+  },
+  {
+    "name": "Aerocool Aero Bronze 650W 80 PLUS Bronze",
+    "producer": "Aerocool",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 98
+  },
+  {
+    "name": "Aerocool Aero Bronze 700W 80 PLUS Bronze",
+    "producer": "Aerocool",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 99
+  },
+  {
+    "name": "Aerocool Aero Bronze 750M 80 PLUS Bronze",
+    "producer": "Aerocool",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 100
+  },
+  {
+    "name": "Aerocool Aero Bronze 750W 80 PLUS Bronze",
+    "producer": "Aerocool",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 101
+  },
+  {
+    "name": "Aerocool Aero Bronze 850M 80 PLUS Bronze",
+    "producer": "Aerocool",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 102
+  },
+  {
+    "name": "Aerocool Aero Cylon 400W 80 PLUS",
+    "producer": "Aerocool",
+    "watt": "400",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 103
+  },
+  {
+    "name": "Aerocool Aero White 500 80 PLUS",
+    "producer": "Aerocool",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 104
+  },
+  {
+    "name": "Aerocool Aero White 550 80 PLUS",
+    "producer": "Aerocool",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 105
+  },
+  {
+    "name": "Aerocool Aero White 600 80 PLUS",
+    "producer": "Aerocool",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 106
+  },
+  {
+    "name": "Aerocool Aero White 650 80 PLUS",
+    "producer": "Aerocool",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 107
+  },
+  {
+    "name": "Aerocool Aero White 700 80 PLUS",
+    "producer": "Aerocool",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 108
+  },
+  {
+    "name": "Aerocool Cylon RGB 500W 80 PLUS",
+    "producer": "Aerocool",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 109
+  },
+  {
+    "name": "Aerocool Cylon RGB 600W 80 PLUS",
+    "producer": "Aerocool",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 110
+  },
+  {
+    "name": "Aerocool Cylon RGB 700W 80 PLUS",
+    "producer": "Aerocool",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 111
+  },
+  {
+    "name": "Aerocool DORADO 750W",
+    "producer": "Aerocool",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 112
+  },
+  {
+    "name": "Aerocool Integrator Gold 1000W",
+    "producer": "Aerocool",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 113
+  },
+  {
+    "name": "Aerocool MIRAGEGOLD650",
+    "producer": "Aerocool",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 114
+  },
+  {
+    "name": "Aerocool MIRAGEGOLD650M",
+    "producer": "Aerocool",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 115
+  },
+  {
+    "name": "Aerocool MIRAGEGOLD750",
+    "producer": "Aerocool",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 116
+  },
+  {
+    "name": "Aerocool MIRAGEGOLD750M",
+    "producer": "Aerocool",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 117
+  },
+  {
+    "name": "Aerocool MIRAGEGOLD850",
+    "producer": "Aerocool",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 118
+  },
+  {
+    "name": "Aerocool MIRAGEGOLD850M",
+    "producer": "Aerocool",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 119
+  },
+  {
+    "name": "Aerocool Project 7",
+    "producer": "Aerocool",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 120
+  },
+  {
+    "name": "Aerocool Xpredator 400 80 PLUS Bronze",
+    "producer": "Aerocool",
+    "watt": "400",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 121
+  },
+  {
+    "name": "Aerocool Xpredator 500",
+    "producer": "Aerocool",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 122
+  },
+  {
+    "name": "Aerocool Xpredator 600",
+    "producer": "Aerocool",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 123
+  },
+  {
+    "name": "Aerocool Xpredator 700",
+    "producer": "Aerocool",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 124
+  },
+  {
+    "name": "Aerocool Xpredator 750M",
+    "producer": "Aerocool",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 125
+  },
+  {
+    "name": "Aerocool Xpredator Gold 650GM",
+    "producer": "Aerocool",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 126
+  },
+  {
+    "name": "Antec EAG Pro 550W 80 PLUS Gold",
+    "producer": "Antec",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 127
+  },
+  {
+    "name": "Antec EAG Pro 650W 80 PLUS Gold",
+    "producer": "Antec",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 128
+  },
+  {
+    "name": "Antec EAG Pro 750W 80 PLUS Gold",
+    "producer": "Antec",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 129
+  },
+  {
+    "name": "Antec EDGE EDG550",
+    "producer": "Antec",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 130
+  },
+  {
+    "name": "Antec EDGE EDG650",
+    "producer": "Antec",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 131
+  },
+  {
+    "name": "Antec EDGE EDG750",
+    "producer": "Antec",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 132
+  },
+  {
+    "name": "Antec High Current Gamer",
+    "producer": "Antec",
+    "watt": "520",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 133
+  },
+  {
+    "name": "Antec High Current Gamer",
+    "producer": "Antec",
+    "watt": "620",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 134
+  },
+  {
+    "name": "Antec High Current Gamer HCG-620M",
+    "producer": "Antec",
+    "watt": "620",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 135
+  },
+  {
+    "name": "Antec High Current Gamer HCG-750M",
+    "producer": "Antec",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 136
+  },
+  {
+    "name": "Antec High Current Gamer HCG-850M",
+    "producer": "Antec",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 137
+  },
+  {
+    "name": "Antec High Current Gamer HCG650 80 PLUS Gold",
+    "producer": "Antec",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 138
+  },
+  {
+    "name": "Antec High Current Gamer HCG750 80 PLUS Gold",
+    "producer": "Antec",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 139
+  },
+  {
+    "name": "Antec High Current Gamer HCG850 80Plus Gold",
+    "producer": "Antec",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 140
+  },
+  {
+    "name": "Antec High Current Pro HCP-1000 Platinum",
+    "producer": "Antec",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 141
+  },
+  {
+    "name": "Antec High Current Pro HCP-1300 Platinum",
+    "producer": "Antec",
+    "watt": "1300",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 142
+  },
+  {
+    "name": "Antec High Current Pro HCP-850 Platinum",
+    "producer": "Antec",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 143
+  },
+  {
+    "name": "Antec NE450M EC Semi Modular",
+    "producer": "Antec",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 144
+  },
+  {
+    "name": "Antec NE550M EC Semi Modular",
+    "producer": "Antec",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 145
+  },
+  {
+    "name": "Antec NE650M EC Semi Modular",
+    "producer": "Antec",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 146
+  },
+  {
+    "name": "Antec True Power TP550C",
+    "producer": "Antec",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 147
+  },
+  {
+    "name": "Antec True Power TP650C",
+    "producer": "Antec",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 148
+  },
+  {
+    "name": "Antec True Power TP750C",
+    "producer": "Antec",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 149
+  },
+  {
+    "name": "Antec VP Strictly Power",
+    "producer": "Antec",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "N/A",
+    "id": 150
+  },
+  {
+    "name": "ASUS 0A100-00151700",
+    "producer": "ASUS",
+    "watt": "300",
+    "size": "TFX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 151
+  },
+  {
+    "name": "ASUS 0A100-00420300",
+    "producer": "ASUS",
+    "watt": "180",
+    "size": "TFX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 152
+  },
+  {
+    "name": "ASUS 90YE00A1-B0EA00",
+    "producer": "ASUS",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 153
+  },
+  {
+    "name": "ASUS AP-850G",
+    "producer": "ASUS",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 154
+  },
+  {
+    "name": "ASUS ASUS-PRO-WS-3000P",
+    "producer": "ASUS",
+    "watt": "3000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 155
+  },
+  {
+    "name": "ASUS ATS-750G",
+    "producer": "ASUS",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 156
+  },
+  {
+    "name": "ASUS ATS-850G",
+    "producer": "ASUS",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 157
+  },
+  {
+    "name": "ASUS Prime -650B-BLACK",
+    "producer": "ASUS",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 158
+  },
+  {
+    "name": "ASUS Prime -750B-BLACK",
+    "producer": "ASUS",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 159
+  },
+  {
+    "name": "ASUS Prime 750W Bronze White Edition",
+    "producer": "ASUS",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 160
+  },
+  {
+    "name": "ASUS Prime 750W Gold ( AP-750G )",
+    "producer": "ASUS",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 161
+  },
+  {
+    "name": "ASUS Prime 850W Gold ( AP-850G )",
+    "producer": "ASUS",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 162
+  },
+  {
+    "name": "ASUS Prime 850W Gold ( AP-850G )",
+    "producer": "ASUS",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 163
+  },
+  {
+    "name": "ASUS Prime AP-750G",
+    "producer": "ASUS",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 164
+  },
+  {
+    "name": "ASUS Pro WS 1600W Platinum",
+    "producer": "ASUS",
+    "watt": "1600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 165
+  },
+  {
+    "name": "ASUS Pro WS 2200W Platinum",
+    "producer": "ASUS",
+    "watt": "2200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 166
+  },
+  {
+    "name": "ASUS ROG -LOKI-1000P-SFX-L-GAMING",
+    "producer": "ASUS",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 167
+  },
+  {
+    "name": "ASUS ROG -LOKI-1200T-SFX-L-GAMING",
+    "producer": "ASUS",
+    "watt": "1200",
+    "size": "SFX-L",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 168
+  },
+  {
+    "name": "ASUS ROG -STRIX-1000G-AURA-WHITE-GAMING",
+    "producer": "ASUS",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 169
+  },
+  {
+    "name": "ASUS ROG -STRIX-1000P-GAMING-WHITE",
+    "producer": "ASUS",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 170
+  },
+  {
+    "name": "ASUS ROG -STRIX-1200G-AURA-GAMING",
+    "producer": "ASUS",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 171
+  },
+  {
+    "name": "ASUS ROG -STRIX-1200P-GAMING",
+    "producer": "ASUS",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 172
+  },
+  {
+    "name": "ASUS ROG -STRIX-550G",
+    "producer": "ASUS",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 173
+  },
+  {
+    "name": "ASUS ROG -STRIX-850G-N",
+    "producer": "ASUS",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 174
+  },
+  {
+    "name": "ASUS ROG -STRIX-850G-WHITE-N",
+    "producer": "ASUS",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 175
+  },
+  {
+    "name": "ASUS ROG -STRIX-850P-GAMING",
+    "producer": "ASUS",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 176
+  },
+  {
+    "name": "ASUS ROG -THOR-1000P3-GAMING",
+    "producer": "ASUS",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 177
+  },
+  {
+    "name": "ASUS ROG -THOR-1200P3-GAMING",
+    "producer": "ASUS",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 178
+  },
+  {
+    "name": "ASUS ROG -THOR-1200P3-MIKU",
+    "producer": "ASUS",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 179
+  },
+  {
+    "name": "ASUS ROG -THOR-1600T3-GAMING",
+    "producer": "ASUS",
+    "watt": "1600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 180
+  },
+  {
+    "name": "ASUS ROG Loki SFX-L 1000W Platinum",
+    "producer": "ASUS",
+    "watt": "1000",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 181
+  },
+  {
+    "name": "ASUS ROG Loki SFX-L 750W Platinum",
+    "producer": "ASUS",
+    "watt": "750",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 182
+  },
+  {
+    "name": "ASUS ROG Loki SFX-L 850W Platinum",
+    "producer": "ASUS",
+    "watt": "850",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 183
+  },
+  {
+    "name": "ASUS ROG Loki SFX-L 850W Platinum White",
+    "producer": "ASUS",
+    "watt": "850",
+    "size": "SFX-L",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 184
+  },
+  {
+    "name": "ASUS ROG LOKI SFX-L 850W Platinum White Edition",
+    "producer": "ASUS",
+    "watt": "850",
+    "size": "SFX-L",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 185
+  },
+  {
+    "name": "ASUS ROG Strix 1000G",
+    "producer": "ASUS",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 186
+  },
+  {
+    "name": "ASUS ROG STRIX 1000W Gold (16-pin cable)",
+    "producer": "ASUS",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 187
+  },
+  {
+    "name": "ASUS ROG Strix 1000W Gold Aura Edition",
+    "producer": "ASUS",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 188
+  },
+  {
+    "name": "ASUS ROG STRIX 1200W Gold Aura Edition",
+    "producer": "ASUS",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 189
+  },
+  {
+    "name": "ASUS ROG Strix 550G 80 PLUS Gold",
+    "producer": "ASUS",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 190
+  },
+  {
+    "name": "ASUS ROG Strix 650G 80 PLUS Gold",
+    "producer": "ASUS",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 191
+  },
+  {
+    "name": "ASUS ROG Strix 750G 80 PLUS Gold",
+    "producer": "ASUS",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 192
+  },
+  {
+    "name": "ASUS ROG STRIX 750W GOLD (16-pin cable)",
+    "producer": "ASUS",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 193
+  },
+  {
+    "name": "ASUS ROG Strix 750W Gold Aura Edition",
+    "producer": "ASUS",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 194
+  },
+  {
+    "name": "ASUS ROG Strix 850W Gold Aura Edition",
+    "producer": "ASUS",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 195
+  },
+  {
+    "name": "ASUS ROG STRIX-1000P-GAMING",
+    "producer": "ASUS",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 196
+  },
+  {
+    "name": "ASUS ROG THOR 1000P2-GAMING",
+    "producer": "ASUS",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 197
+  },
+  {
+    "name": "ASUS ROG THOR 1000W Platinum II EVA Edition",
+    "producer": "ASUS",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 198
+  },
+  {
+    "name": "ASUS ROG THOR 1200W Platinum II",
+    "producer": "ASUS",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 199
+  },
+  {
+    "name": "ASUS ROG THOR 1600W Titanium",
+    "producer": "ASUS",
+    "watt": "1600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 200
+  },
+  {
+    "name": "ASUS ROG Thor 80 PLUS Platinum",
+    "producer": "ASUS",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 201
+  },
+  {
+    "name": "ASUS ROG Thor 80 PLUS Platinum",
+    "producer": "ASUS",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 202
+  },
+  {
+    "name": "ASUS ROG Thor 850W Platinum II",
+    "producer": "ASUS",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 203
+  },
+  {
+    "name": "ASUS ROG-THOR-1000P2-EVA-GAMING",
+    "producer": "ASUS",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 204
+  },
+  {
+    "name": "ASUS ROG-THOR-1600T-GAMING",
+    "producer": "ASUS",
+    "watt": "1600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 205
+  },
+  {
+    "name": "ASUS TUF Gaming 1000W Gold",
+    "producer": "ASUS",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 206
+  },
+  {
+    "name": "ASUS TUF Gaming 1000W Gold",
+    "producer": "ASUS",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 207
+  },
+  {
+    "name": "ASUS TUF Gaming 1000W Gold White Edition",
+    "producer": "ASUS",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 208
+  },
+  {
+    "name": "ASUS TUF GAMING 1200W Gold",
+    "producer": "ASUS",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 209
+  },
+  {
+    "name": "ASUS TUF Gaming 650B 80 PLUS Bronze",
+    "producer": "ASUS",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 210
+  },
+  {
+    "name": "ASUS TUF Gaming 750W Gold",
+    "producer": "ASUS",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 211
+  },
+  {
+    "name": "ASUS TUF Gaming 850W Gold",
+    "producer": "ASUS",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 212
+  },
+  {
+    "name": "ASUS TUF-GAMING-1200G",
+    "producer": "ASUS",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 213
+  },
+  {
+    "name": "ASUS TUF-GAMING-750G",
+    "producer": "ASUS",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 214
+  },
+  {
+    "name": "ASUS TUF-GAMING-850G",
+    "producer": "ASUS",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 215
+  },
+  {
+    "name": "be quiet! BN337",
+    "producer": "be quiet!",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 216
+  },
+  {
+    "name": "be quiet! BN338",
+    "producer": "be quiet!",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 217
+  },
+  {
+    "name": "be quiet! BN340",
+    "producer": "be quiet!",
+    "watt": "1500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 218
+  },
+  {
+    "name": "be quiet! Dark Power 12",
+    "producer": "be quiet!",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 219
+  },
+  {
+    "name": "be quiet! Dark Power 12",
+    "producer": "be quiet!",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 220
+  },
+  {
+    "name": "be quiet! Dark Power 12",
+    "producer": "be quiet!",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 221
+  },
+  {
+    "name": "be quiet! Dark Power 13",
+    "producer": "be quiet!",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 222
+  },
+  {
+    "name": "be quiet! Dark Power 13",
+    "producer": "be quiet!",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 223
+  },
+  {
+    "name": "be quiet! Dark Power 13",
+    "producer": "be quiet!",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 224
+  },
+  {
+    "name": "be quiet! Dark Power Pro 12",
+    "producer": "be quiet!",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 225
+  },
+  {
+    "name": "be quiet! Dark Power Pro 12",
+    "producer": "be quiet!",
+    "watt": "1500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 226
+  },
+  {
+    "name": "be quiet! Dark Power Pro 13 | 1300W",
+    "producer": "be quiet!",
+    "watt": "1300",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 227
+  },
+  {
+    "name": "be quiet! Dark Power Pro 13 | 1600W",
+    "producer": "be quiet!",
+    "watt": "1600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 228
+  },
+  {
+    "name": "be quiet! Dark Power Pro P11 modular",
+    "producer": "be quiet!",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 229
+  },
+  {
+    "name": "be quiet! Dark Power Pro P11 modular",
+    "producer": "be quiet!",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 230
+  },
+  {
+    "name": "be quiet! Power Zone",
+    "producer": "be quiet!",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 231
+  },
+  {
+    "name": "be quiet! Power Zone",
+    "producer": "be quiet!",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 232
+  },
+  {
+    "name": "be quiet! POWER ZONE 2 1000W",
+    "producer": "be quiet!",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 233
+  },
+  {
+    "name": "be quiet! POWER ZONE 2 750W",
+    "producer": "be quiet!",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 234
+  },
+  {
+    "name": "be quiet! POWER ZONE 2 850W",
+    "producer": "be quiet!",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 235
+  },
+  {
+    "name": "be quiet! Power Zone, 80 PLUS Bronze",
+    "producer": "be quiet!",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 236
+  },
+  {
+    "name": "be quiet! Power Zone, 80 PLUS Bronze",
+    "producer": "be quiet!",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 237
+  },
+  {
+    "name": "be quiet! Pure Power 10",
+    "producer": "be quiet!",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Silver",
+    "id": 238
+  },
+  {
+    "name": "be quiet! Pure Power 10",
+    "producer": "be quiet!",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Silver",
+    "id": 239
+  },
+  {
+    "name": "be quiet! Pure Power 10",
+    "producer": "be quiet!",
+    "watt": "400",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Silver",
+    "id": 240
+  },
+  {
+    "name": "be quiet! Pure Power 10",
+    "producer": "be quiet!",
+    "watt": "350",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 241
+  },
+  {
+    "name": "be quiet! Pure Power 10",
+    "producer": "be quiet!",
+    "watt": "300",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 242
+  },
+  {
+    "name": "be quiet! Pure Power 10",
+    "producer": "be quiet!",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Silver",
+    "id": 243
+  },
+  {
+    "name": "be quiet! Pure Power 10 CM",
+    "producer": "be quiet!",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Silver",
+    "id": 244
+  },
+  {
+    "name": "be quiet! Pure Power 10 CM",
+    "producer": "be quiet!",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Silver",
+    "id": 245
+  },
+  {
+    "name": "be quiet! Pure Power 10 CM",
+    "producer": "be quiet!",
+    "watt": "400",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Silver",
+    "id": 246
+  },
+  {
+    "name": "be quiet! Pure Power 10 CM",
+    "producer": "be quiet!",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Silver",
+    "id": 247
+  },
+  {
+    "name": "be quiet! Pure Power 11 FM",
+    "producer": "be quiet!",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 248
+  },
+  {
+    "name": "be quiet! Pure Power 11 FM",
+    "producer": "be quiet!",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 249
+  },
+  {
+    "name": "be quiet! Pure Power 11 FM",
+    "producer": "be quiet!",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 250
+  },
+  {
+    "name": "be quiet! Pure Power 11 FM 1000W",
+    "producer": "be quiet!",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 251
+  },
+  {
+    "name": "be quiet! Pure Power 11 FM 850W",
+    "producer": "be quiet!",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 252
+  },
+  {
+    "name": "be quiet! PURE POWER 12 1000W",
+    "producer": "be quiet!",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 253
+  },
+  {
+    "name": "be quiet! PURE POWER 12 550W",
+    "producer": "be quiet!",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 254
+  },
+  {
+    "name": "be quiet! PURE POWER 12 650W",
+    "producer": "be quiet!",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 255
+  },
+  {
+    "name": "be quiet! PURE POWER 12 750W",
+    "producer": "be quiet!",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 256
+  },
+  {
+    "name": "be quiet! PURE POWER 12 850W",
+    "producer": "be quiet!",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 257
+  },
+  {
+    "name": "be quiet! Pure Power 12 M",
+    "producer": "be quiet!",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 258
+  },
+  {
+    "name": "be quiet! Pure Power 12 M",
+    "producer": "be quiet!",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 259
+  },
+  {
+    "name": "be quiet! Pure Power 12 M",
+    "producer": "be quiet!",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 260
+  },
+  {
+    "name": "be quiet! Pure Power 12 M",
+    "producer": "be quiet!",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 261
+  },
+  {
+    "name": "be quiet! Pure Power 12 M",
+    "producer": "be quiet!",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 262
+  },
+  {
+    "name": "be quiet! PURE POWER 12 M | 1200W",
+    "producer": "be quiet!",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 263
+  },
+  {
+    "name": "be quiet! Pure Power 13 M | 1000W",
+    "producer": "be quiet!",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 264
+  },
+  {
+    "name": "be quiet! Pure Power 13 M | 550W",
+    "producer": "be quiet!",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 265
+  },
+  {
+    "name": "be quiet! Pure Power 13 M | 650W",
+    "producer": "be quiet!",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 266
+  },
+  {
+    "name": "be quiet! Pure Power 13 M | 750W",
+    "producer": "be quiet!",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 267
+  },
+  {
+    "name": "be quiet! Pure Power 13 M | 850W",
+    "producer": "be quiet!",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 268
+  },
+  {
+    "name": "be quiet! SFX Power 2 80 PLUS Bronze",
+    "producer": "be quiet!",
+    "watt": "300",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 269
+  },
+  {
+    "name": "be quiet! SFX Power 2 80 PLUS Bronze",
+    "producer": "be quiet!",
+    "watt": "400",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 270
+  },
+  {
+    "name": "be quiet! SFX Power 3",
+    "producer": "be quiet!",
+    "watt": "300",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 271
+  },
+  {
+    "name": "be quiet! SFX Power 3",
+    "producer": "be quiet!",
+    "watt": "450",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 272
+  },
+  {
+    "name": "be quiet! SFX-L Power",
+    "producer": "be quiet!",
+    "watt": "600",
+    "size": "SFX-L",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 273
+  },
+  {
+    "name": "be quiet! SFX-L Power",
+    "producer": "be quiet!",
+    "watt": "500",
+    "size": "SFX-L",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 274
+  },
+  {
+    "name": "be quiet! SFX-L Power 80 PLUS Gold",
+    "producer": "be quiet!",
+    "watt": "500",
+    "size": "SFX-L",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 275
+  },
+  {
+    "name": "be quiet! SFX-L Power 80 PLUS Gold",
+    "producer": "be quiet!",
+    "watt": "600",
+    "size": "SFX-L",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 276
+  },
+  {
+    "name": "be quiet! Straight Power 10",
+    "producer": "be quiet!",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 277
+  },
+  {
+    "name": "be quiet! Straight Power 10",
+    "producer": "be quiet!",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 278
+  },
+  {
+    "name": "be quiet! Straight Power 10",
+    "producer": "be quiet!",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 279
+  },
+  {
+    "name": "be quiet! Straight Power 10",
+    "producer": "be quiet!",
+    "watt": "400",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 280
+  },
+  {
+    "name": "be quiet! Straight Power 10 CM",
+    "producer": "be quiet!",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 281
+  },
+  {
+    "name": "be quiet! Straight Power 10 CM",
+    "producer": "be quiet!",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 282
+  },
+  {
+    "name": "be quiet! Straight Power 10 CM",
+    "producer": "be quiet!",
+    "watt": "800",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 283
+  },
+  {
+    "name": "be quiet! Straight Power 10 CM",
+    "producer": "be quiet!",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 284
+  },
+  {
+    "name": "be quiet! Straight Power 11",
+    "producer": "be quiet!",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 285
+  },
+  {
+    "name": "be quiet! Straight Power 11",
+    "producer": "be quiet!",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 286
+  },
+  {
+    "name": "be quiet! Straight Power 11",
+    "producer": "be quiet!",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 287
+  },
+  {
+    "name": "be quiet! Straight Power 11",
+    "producer": "be quiet!",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 288
+  },
+  {
+    "name": "be quiet! Straight Power 11",
+    "producer": "be quiet!",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 289
+  },
+  {
+    "name": "be quiet! Straight Power 11",
+    "producer": "be quiet!",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 290
+  },
+  {
+    "name": "be quiet! Straight Power 11, 80 PLUS Gold",
+    "producer": "be quiet!",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 291
+  },
+  {
+    "name": "be quiet! Straight Power 11, 80 PLUS Gold",
+    "producer": "be quiet!",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 292
+  },
+  {
+    "name": "be quiet! Straight Power 11, 80 PLUS Gold",
+    "producer": "be quiet!",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 293
+  },
+  {
+    "name": "be quiet! Straight Power 11, 80 PLUS Gold",
+    "producer": "be quiet!",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 294
+  },
+  {
+    "name": "be quiet! Straight Power 12",
+    "producer": "be quiet!",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 295
+  },
+  {
+    "name": "be quiet! Straight Power 12",
+    "producer": "be quiet!",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 296
+  },
+  {
+    "name": "be quiet! System Power 10",
+    "producer": "be quiet!",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 297
+  },
+  {
+    "name": "be quiet! System Power 10",
+    "producer": "be quiet!",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 298
+  },
+  {
+    "name": "be quiet! System Power 10",
+    "producer": "be quiet!",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 299
+  },
+  {
+    "name": "be quiet! System Power 10",
+    "producer": "be quiet!",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 300
+  },
+  {
+    "name": "be quiet! System Power 11 450W",
+    "producer": "be quiet!",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 301
+  },
+  {
+    "name": "be quiet! System Power 11 550W",
+    "producer": "be quiet!",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 302
+  },
+  {
+    "name": "be quiet! System Power 11 650W",
+    "producer": "be quiet!",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 303
+  },
+  {
+    "name": "be quiet! System Power 11 750W",
+    "producer": "be quiet!",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 304
+  },
+  {
+    "name": "be quiet! System Power 8",
+    "producer": "be quiet!",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 305
+  },
+  {
+    "name": "be quiet! System Power 8",
+    "producer": "be quiet!",
+    "watt": "400",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 306
+  },
+  {
+    "name": "be quiet! System Power 8",
+    "producer": "be quiet!",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 307
+  },
+  {
+    "name": "be quiet! System Power 9 80 PLUS Bronze",
+    "producer": "be quiet!",
+    "watt": "400",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 308
+  },
+  {
+    "name": "be quiet! System Power 9 80 PLUS Bronze",
+    "producer": "be quiet!",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 309
+  },
+  {
+    "name": "be quiet! System Power 9 80 PLUS Bronze",
+    "producer": "be quiet!",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 310
+  },
+  {
+    "name": "be quiet! System Power 9 80 PLUS Bronze",
+    "producer": "be quiet!",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 311
+  },
+  {
+    "name": "be quiet! System Power 9 CM",
+    "producer": "be quiet!",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 312
+  },
+  {
+    "name": "be quiet! System Power 9 CM",
+    "producer": "be quiet!",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 313
+  },
+  {
+    "name": "be quiet! System Power 9 CM",
+    "producer": "be quiet!",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 314
+  },
+  {
+    "name": "be quiet! System Power 9 CM",
+    "producer": "be quiet!",
+    "watt": "400",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 315
+  },
+  {
+    "name": "be quiet! System Power B10",
+    "producer": "be quiet!",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 316
+  },
+  {
+    "name": "be quiet! System Power B8",
+    "producer": "be quiet!",
+    "watt": "300",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 317
+  },
+  {
+    "name": "be quiet! System Power B8",
+    "producer": "be quiet!",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 318
+  },
+  {
+    "name": "be quiet! System Power B8",
+    "producer": "be quiet!",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 319
+  },
+  {
+    "name": "be quiet! System Power B8",
+    "producer": "be quiet!",
+    "watt": "350",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 320
+  },
+  {
+    "name": "be quiet! System Power B9 80 PLUS Bronze",
+    "producer": "be quiet!",
+    "watt": "300",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 321
+  },
+  {
+    "name": "be quiet! System Power B9 80 PLUS Bronze",
+    "producer": "be quiet!",
+    "watt": "350",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 322
+  },
+  {
+    "name": "be quiet! System Power B9 80 PLUS Bronze",
+    "producer": "be quiet!",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 323
+  },
+  {
+    "name": "be quiet! System Power B9 80 PLUS Bronze",
+    "producer": "be quiet!",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 324
+  },
+  {
+    "name": "be quiet! TFX Power 2 80 PLUS Bronze",
+    "producer": "be quiet!",
+    "watt": "300",
+    "size": "TFX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 325
+  },
+  {
+    "name": "be quiet! TFX Power 2 80 PLUS Gold",
+    "producer": "be quiet!",
+    "watt": "300",
+    "size": "TFX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 326
+  },
+  {
+    "name": "be quiet! TFX Power 3",
+    "producer": "be quiet!",
+    "watt": "300",
+    "size": "TFX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 327
+  },
+  {
+    "name": "be quiet! TFX Power 3",
+    "producer": "be quiet!",
+    "watt": "300",
+    "size": "TFX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 328
+  },
+  {
+    "name": "Chieftec A-90 Serie GDP-550C 90 Plus Gold",
+    "producer": "Chieftec",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 329
+  },
+  {
+    "name": "Chieftec A-90 Serie GDP-650C 90 Plus Gold",
+    "producer": "Chieftec",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 330
+  },
+  {
+    "name": "Chieftec A-90 Serie GDP-750C 90 Plus Gold",
+    "producer": "Chieftec",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 331
+  },
+  {
+    "name": "Chieftec Atmos",
+    "producer": "Chieftec",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 332
+  },
+  {
+    "name": "Chieftec Atmos",
+    "producer": "Chieftec",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 333
+  },
+  {
+    "name": "Chieftec CSN-550C SFX",
+    "producer": "Chieftec",
+    "watt": "550",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 334
+  },
+  {
+    "name": "Chieftec CSN-650C SFX",
+    "producer": "Chieftec",
+    "watt": "650",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 335
+  },
+  {
+    "name": "Chieftec EON",
+    "producer": "Chieftec",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 336
+  },
+  {
+    "name": "Chieftec EON",
+    "producer": "Chieftec",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 337
+  },
+  {
+    "name": "Chieftec EON ZPU-400S",
+    "producer": "Chieftec",
+    "watt": "400",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 338
+  },
+  {
+    "name": "Chieftec EON ZPU-500S",
+    "producer": "Chieftec",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 339
+  },
+  {
+    "name": "Chieftec Force CPS-400S",
+    "producer": "Chieftec",
+    "watt": "400",
+    "size": "ATX",
+    "efficiencyRating": "N/A",
+    "id": 340
+  },
+  {
+    "name": "Chieftec Force CPS-500S",
+    "producer": "Chieftec",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "N/A",
+    "id": 341
+  },
+  {
+    "name": "Chieftec Force CPS-650S",
+    "producer": "Chieftec",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "N/A",
+    "id": 342
+  },
+  {
+    "name": "Chieftec Force CPS-750S",
+    "producer": "Chieftec",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "N/A",
+    "id": 343
+  },
+  {
+    "name": "Chieftec Graphics Card-1200FC",
+    "producer": "Chieftec",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 344
+  },
+  {
+    "name": "Chieftec IArena Serie GPA-350B8",
+    "producer": "Chieftec",
+    "watt": "350",
+    "size": "ATX",
+    "efficiencyRating": "N/A",
+    "id": 345
+  },
+  {
+    "name": "Chieftec IArena Serie GPA-350S8",
+    "producer": "Chieftec",
+    "watt": "350",
+    "size": "ATX",
+    "efficiencyRating": "N/A",
+    "id": 346
+  },
+  {
+    "name": "Chieftec IArena Serie GPA-400B8",
+    "producer": "Chieftec",
+    "watt": "400",
+    "size": "ATX",
+    "efficiencyRating": "N/A",
+    "id": 347
+  },
+  {
+    "name": "Chieftec IArena Serie GPA-400S8",
+    "producer": "Chieftec",
+    "watt": "400",
+    "size": "ATX",
+    "efficiencyRating": "N/A",
+    "id": 348
+  },
+  {
+    "name": "Chieftec IArena Serie GPA-450B8",
+    "producer": "Chieftec",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "N/A",
+    "id": 349
+  },
+  {
+    "name": "Chieftec IArena Serie GPA-450S8",
+    "producer": "Chieftec",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "N/A",
+    "id": 350
+  },
+  {
+    "name": "Chieftec IArena Serie GPA-500S8",
+    "producer": "Chieftec",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "N/A",
+    "id": 351
+  },
+  {
+    "name": "Chieftec IArena Serie GPB-300S",
+    "producer": "Chieftec",
+    "watt": "300",
+    "size": "ATX",
+    "efficiencyRating": "N/A",
+    "id": 352
+  },
+  {
+    "name": "Chieftec IArena Serie GPB-350S",
+    "producer": "Chieftec",
+    "watt": "350",
+    "size": "ATX",
+    "efficiencyRating": "N/A",
+    "id": 353
+  },
+  {
+    "name": "Chieftec IArena Serie GPB-400S",
+    "producer": "Chieftec",
+    "watt": "400",
+    "size": "ATX",
+    "efficiencyRating": "N/A",
+    "id": 354
+  },
+  {
+    "name": "Chieftec IArena Serie GPB-450S",
+    "producer": "Chieftec",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "N/A",
+    "id": 355
+  },
+  {
+    "name": "Chieftec IArena Serie GPB-500S",
+    "producer": "Chieftec",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "N/A",
+    "id": 356
+  },
+  {
+    "name": "Chieftec Navitas",
+    "producer": "Chieftec",
+    "watt": "1250",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 357
+  },
+  {
+    "name": "Chieftec Navitas 80 PLUS Gold",
+    "producer": "Chieftec",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 358
+  },
+  {
+    "name": "Chieftec Navitas Serie GPM-450S",
+    "producer": "Chieftec",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 359
+  },
+  {
+    "name": "Chieftec Navitas Serie GPM-550S",
+    "producer": "Chieftec",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 360
+  },
+  {
+    "name": "Chieftec Navitas Serie GPM-650S",
+    "producer": "Chieftec",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 361
+  },
+  {
+    "name": "Chieftec Navitas Serie GPM-750S",
+    "producer": "Chieftec",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 362
+  },
+  {
+    "name": "Chieftec Polaris 3.0 1050W",
+    "producer": "Chieftec",
+    "watt": "1050",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 363
+  },
+  {
+    "name": "Chieftec Polaris 3.0 1250W",
+    "producer": "Chieftec",
+    "watt": "1250",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 364
+  },
+  {
+    "name": "Chieftec Polaris 3.0 850W",
+    "producer": "Chieftec",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 365
+  },
+  {
+    "name": "Chieftec Polaris PRO 1300W",
+    "producer": "Chieftec",
+    "watt": "1300",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 366
+  },
+  {
+    "name": "Chieftec Power Smart 80 PLUS Gold",
+    "producer": "Chieftec",
+    "watt": "1250",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 367
+  },
+  {
+    "name": "Chieftec Power Smart 80 PLUS Gold",
+    "producer": "Chieftec",
+    "watt": "1450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 368
+  },
+  {
+    "name": "Chieftec Power Smart 80 PLUS Gold",
+    "producer": "Chieftec",
+    "watt": "1350",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 369
+  },
+  {
+    "name": "Chieftec PSF-400B 80 PLUS Bronze",
+    "producer": "Chieftec",
+    "watt": "400",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 370
+  },
+  {
+    "name": "Chieftec Smart Serie GPS-400A8",
+    "producer": "Chieftec",
+    "watt": "400",
+    "size": "ATX",
+    "efficiencyRating": "N/A",
+    "id": 371
+  },
+  {
+    "name": "Chieftec Smart Serie GPS-500A8",
+    "producer": "Chieftec",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "N/A",
+    "id": 372
+  },
+  {
+    "name": "Chieftec Smart Serie GPS-600A8",
+    "producer": "Chieftec",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "N/A",
+    "id": 373
+  },
+  {
+    "name": "Chieftec Smart Serie GPS-700A8",
+    "producer": "Chieftec",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "N/A",
+    "id": 374
+  },
+  {
+    "name": "Chieftec Smart Serie SFX-350BS",
+    "producer": "Chieftec",
+    "watt": "350",
+    "size": "SFX",
+    "efficiencyRating": "N/A",
+    "id": 375
+  },
+  {
+    "name": "Chieftec Smart Serie SFX-450BS",
+    "producer": "Chieftec",
+    "watt": "450",
+    "size": "SFX",
+    "efficiencyRating": "N/A",
+    "id": 376
+  },
+  {
+    "name": "Chieftec Smart Serie SFX-500GD-C",
+    "producer": "Chieftec",
+    "watt": "500",
+    "size": "SFX-L",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 377
+  },
+  {
+    "name": "Chieftec Smart Series TFX 250P 80 PLUS Bronze",
+    "producer": "Chieftec",
+    "watt": "250",
+    "size": "TFX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 378
+  },
+  {
+    "name": "Chieftec Stealth 1000W Vega M Series SPX-1000-FC 80+ Platin",
+    "producer": "Chieftec",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 379
+  },
+  {
+    "name": "Chieftec Stealth 1200W Vega M Series SPX-1200-FC 80+ Platin",
+    "producer": "Chieftec",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 380
+  },
+  {
+    "name": "Chieftec Value APB-600B8",
+    "producer": "Chieftec",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 381
+  },
+  {
+    "name": "Chieftec Value APB-700B8",
+    "producer": "Chieftec",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 382
+  },
+  {
+    "name": "Chieftec Vega 750W Series PPG-750-S",
+    "producer": "Chieftec",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 383
+  },
+  {
+    "name": "Chieftec Vega PPG-1000-C",
+    "producer": "Chieftec",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 384
+  },
+  {
+    "name": "Chieftec Vega PPG-750-C",
+    "producer": "Chieftec",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 385
+  },
+  {
+    "name": "Chieftec Vega PPG-850-C",
+    "producer": "Chieftec",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 386
+  },
+  {
+    "name": "Chieftec Vega PPG-850-S Watt",
+    "producer": "Chieftec",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 387
+  },
+  {
+    "name": "Chieftec Vita BPX-750-C",
+    "producer": "Chieftec",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 388
+  },
+  {
+    "name": "Chieftec Vita BPX-850-C",
+    "producer": "Chieftec",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 389
+  },
+  {
+    "name": "Cooler Master GX2 850 Gold",
+    "producer": "Cooler Master",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 390
+  },
+  {
+    "name": "Cooler Master MasterWatt",
+    "producer": "Cooler Master",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 391
+  },
+  {
+    "name": "Cooler Master MasterWatt, 80 PLUS-Bronze",
+    "producer": "Cooler Master",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 392
+  },
+  {
+    "name": "Cooler Master MasterWatt, 80 PLUS-Bronze",
+    "producer": "Cooler Master",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 393
+  },
+  {
+    "name": "Cooler Master MWE Gold V2",
+    "producer": "Cooler Master",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 394
+  },
+  {
+    "name": "Cooler Master MWE Gold V2",
+    "producer": "Cooler Master",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 395
+  },
+  {
+    "name": "Cooler Master V-Series SFX",
+    "producer": "Cooler Master",
+    "watt": "850",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 396
+  },
+  {
+    "name": "Cooler Master V-Series SFX",
+    "producer": "Cooler Master",
+    "watt": "750",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 397
+  },
+  {
+    "name": "Corsair AX1000 High Performance",
+    "producer": "Corsair",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 398
+  },
+  {
+    "name": "Corsair AX1500i Digital ATX Power Supply",
+    "producer": "Corsair",
+    "watt": "1500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 399
+  },
+  {
+    "name": "Corsair AX760i Digital ATX Power Supply",
+    "producer": "Corsair",
+    "watt": "760",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 400
+  },
+  {
+    "name": "Corsair AX850 High Performance",
+    "producer": "Corsair",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 401
+  },
+  {
+    "name": "Corsair Builder Series CX450",
+    "producer": "Corsair",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 402
+  },
+  {
+    "name": "Corsair Builder Series CX450M Modular",
+    "producer": "Corsair",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 403
+  },
+  {
+    "name": "Corsair Builder Series CX500",
+    "producer": "Corsair",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 404
+  },
+  {
+    "name": "Corsair Builder Series CX550",
+    "producer": "Corsair",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 405
+  },
+  {
+    "name": "Corsair Builder Series CX550M Modular",
+    "producer": "Corsair",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 406
+  },
+  {
+    "name": "Corsair Builder Series CX600",
+    "producer": "Corsair",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 407
+  },
+  {
+    "name": "Corsair Builder Series CX650",
+    "producer": "Corsair",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 408
+  },
+  {
+    "name": "Corsair Builder Series CX650M Modular",
+    "producer": "Corsair",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 409
+  },
+  {
+    "name": "Corsair Builder Series CX750",
+    "producer": "Corsair",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 410
+  },
+  {
+    "name": "Corsair Builder Series CX750 Rev. 2",
+    "producer": "Corsair",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 411
+  },
+  {
+    "name": "Corsair Builder Series CX750M Modular",
+    "producer": "Corsair",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 412
+  },
+  {
+    "name": "Corsair Builder Series CX850M Modular",
+    "producer": "Corsair",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 413
+  },
+  {
+    "name": "Corsair CS-M Series CS550M Modular",
+    "producer": "Corsair",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 414
+  },
+  {
+    "name": "Corsair CS-M Series CS650M Modular",
+    "producer": "Corsair",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 415
+  },
+  {
+    "name": "Corsair CS-M Series CS750M Modular",
+    "producer": "Corsair",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 416
+  },
+  {
+    "name": "Corsair CS-M Series CS850M Modular",
+    "producer": "Corsair",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 417
+  },
+  {
+    "name": "Corsair CV Series CV450",
+    "producer": "Corsair",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 418
+  },
+  {
+    "name": "Corsair CV Series CV550",
+    "producer": "Corsair",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 419
+  },
+  {
+    "name": "Corsair CV Series CV650",
+    "producer": "Corsair",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 420
+  },
+  {
+    "name": "Corsair CV Series CV650 Dual EPS",
+    "producer": "Corsair",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 421
+  },
+  {
+    "name": "Corsair CX550F RGB",
+    "producer": "Corsair",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 422
+  },
+  {
+    "name": "Corsair CX550F RGB",
+    "producer": "Corsair",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 423
+  },
+  {
+    "name": "Corsair CX550M",
+    "producer": "Corsair",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 424
+  },
+  {
+    "name": "Corsair CX650",
+    "producer": "Corsair",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 425
+  },
+  {
+    "name": "Corsair CX650F RGB",
+    "producer": "Corsair",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 426
+  },
+  {
+    "name": "Corsair CX650F RGB",
+    "producer": "Corsair",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 427
+  },
+  {
+    "name": "Corsair CX650M",
+    "producer": "Corsair",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 428
+  },
+  {
+    "name": "Corsair CX750",
+    "producer": "Corsair",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 429
+  },
+  {
+    "name": "Corsair CX750F RGB",
+    "producer": "Corsair",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 430
+  },
+  {
+    "name": "Corsair CX750F RGB",
+    "producer": "Corsair",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 431
+  },
+  {
+    "name": "Corsair CX750M",
+    "producer": "Corsair",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 432
+  },
+  {
+    "name": "Corsair CX850M",
+    "producer": "Corsair",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 433
+  },
+  {
+    "name": "Corsair HX1000",
+    "producer": "Corsair",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 434
+  },
+  {
+    "name": "Corsair HX1000 High Performance",
+    "producer": "Corsair",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 435
+  },
+  {
+    "name": "Corsair HX1000i High Performance",
+    "producer": "Corsair",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 436
+  },
+  {
+    "name": "Corsair HX1000i High-Performance ATX Power Supply",
+    "producer": "Corsair",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 437
+  },
+  {
+    "name": "Corsair HX1200 High Performance",
+    "producer": "Corsair",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 438
+  },
+  {
+    "name": "Corsair HX1200i High Performance",
+    "producer": "Corsair",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 439
+  },
+  {
+    "name": "Corsair HX750",
+    "producer": "Corsair",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 440
+  },
+  {
+    "name": "Corsair HX750 High Performance",
+    "producer": "Corsair",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 441
+  },
+  {
+    "name": "Corsair HX750i High Performance",
+    "producer": "Corsair",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 442
+  },
+  {
+    "name": "Corsair HX750i High-Performance ATX Power Supply",
+    "producer": "Corsair",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 443
+  },
+  {
+    "name": "Corsair HX850",
+    "producer": "Corsair",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 444
+  },
+  {
+    "name": "Corsair HX850 High Performance",
+    "producer": "Corsair",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 445
+  },
+  {
+    "name": "Corsair HX850i High Performance",
+    "producer": "Corsair",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 446
+  },
+  {
+    "name": "Corsair HX850i High-Performance ATX Power Supply",
+    "producer": "Corsair",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 447
+  },
+  {
+    "name": "Corsair HXi Series HX1200i",
+    "producer": "Corsair",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 448
+  },
+  {
+    "name": "Corsair Professional Platinum Series AX1200i",
+    "producer": "Corsair",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 449
+  },
+  {
+    "name": "Corsair Professional Platinum Series AX1500i",
+    "producer": "Corsair",
+    "watt": "1500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 450
+  },
+  {
+    "name": "Corsair Professional Platinum Series AX1600i",
+    "producer": "Corsair",
+    "watt": "1600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 451
+  },
+  {
+    "name": "Corsair Professional Platinum Series AX760",
+    "producer": "Corsair",
+    "watt": "760",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 452
+  },
+  {
+    "name": "Corsair Professional Platinum Series AX860",
+    "producer": "Corsair",
+    "watt": "860",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 453
+  },
+  {
+    "name": "Corsair Professional Platinum Series AX860I",
+    "producer": "Corsair",
+    "watt": "860",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 454
+  },
+  {
+    "name": "Corsair RM Series RM650",
+    "producer": "Corsair",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 455
+  },
+  {
+    "name": "Corsair RM Series RM650i",
+    "producer": "Corsair",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 456
+  },
+  {
+    "name": "Corsair RM Series RM750 (2021)",
+    "producer": "Corsair",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 457
+  },
+  {
+    "name": "Corsair RM Series RM750i",
+    "producer": "Corsair",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 458
+  },
+  {
+    "name": "Corsair RM Series RM850 (2021)",
+    "producer": "Corsair",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 459
+  },
+  {
+    "name": "Corsair RM1000",
+    "producer": "Corsair",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 460
+  },
+  {
+    "name": "Corsair RM1000x",
+    "producer": "Corsair",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 461
+  },
+  {
+    "name": "Corsair RM650i",
+    "producer": "Corsair",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 462
+  },
+  {
+    "name": "Corsair RM650x",
+    "producer": "Corsair",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 463
+  },
+  {
+    "name": "Corsair RM850i",
+    "producer": "Corsair",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 464
+  },
+  {
+    "name": "Corsair RM850x",
+    "producer": "Corsair",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 465
+  },
+  {
+    "name": "Corsair RM850x",
+    "producer": "Corsair",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 466
+  },
+  {
+    "name": "Corsair RMe Series RM750e",
+    "producer": "Corsair",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 467
+  },
+  {
+    "name": "Corsair RMX Series (2021) RM1000x",
+    "producer": "Corsair",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 468
+  },
+  {
+    "name": "Corsair RMX Series (2021) RM550x",
+    "producer": "Corsair",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 469
+  },
+  {
+    "name": "Corsair RMX Series (2021) RM650x",
+    "producer": "Corsair",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 470
+  },
+  {
+    "name": "Corsair RMX Series (2021) RM750x",
+    "producer": "Corsair",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 471
+  },
+  {
+    "name": "Corsair RMX Series 2018 RMX750 - white",
+    "producer": "Corsair",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 472
+  },
+  {
+    "name": "Corsair RMX Series 2018 RMX850",
+    "producer": "Corsair",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 473
+  },
+  {
+    "name": "Corsair RMX Series RMX750 - white",
+    "producer": "Corsair",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 474
+  },
+  {
+    "name": "Corsair RMX Series RMX850",
+    "producer": "Corsair",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 475
+  },
+  {
+    "name": "Corsair SF Series SF450 80 PLUS Platinum SFX",
+    "producer": "Corsair",
+    "watt": "450",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 476
+  },
+  {
+    "name": "Corsair SF Series SF600 80 PLUS Gold SFX",
+    "producer": "Corsair",
+    "watt": "600",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 477
+  },
+  {
+    "name": "Corsair SF Series SF600 80 PLUS Platinum SFX",
+    "producer": "Corsair",
+    "watt": "600",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 478
+  },
+  {
+    "name": "Corsair SF Series SF750 80 PLUS Platinum SFX",
+    "producer": "Corsair",
+    "watt": "750",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 479
+  },
+  {
+    "name": "Corsair SF450",
+    "producer": "Corsair",
+    "watt": "450",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 480
+  },
+  {
+    "name": "Corsair SF600",
+    "producer": "Corsair",
+    "watt": "600",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 481
+  },
+  {
+    "name": "Corsair Vengeance Series V650M",
+    "producer": "Corsair",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 482
+  },
+  {
+    "name": "Corsair VS Series VS350",
+    "producer": "Corsair",
+    "watt": "350",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 483
+  },
+  {
+    "name": "Corsair VS Series VS450",
+    "producer": "Corsair",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 484
+  },
+  {
+    "name": "Corsair VS Series VS450",
+    "producer": "Corsair",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 485
+  },
+  {
+    "name": "Corsair VS Series VS550",
+    "producer": "Corsair",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 486
+  },
+  {
+    "name": "Corsair VS Series VS550",
+    "producer": "Corsair",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 487
+  },
+  {
+    "name": "Corsair VS Series VS650",
+    "producer": "Corsair",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 488
+  },
+  {
+    "name": "Corsair VS Series VS650",
+    "producer": "Corsair",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 489
+  },
+  {
+    "name": "Corsair VS400",
+    "producer": "Corsair",
+    "watt": "400",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 490
+  },
+  {
+    "name": "Corsair VS500",
+    "producer": "Corsair",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 491
+  },
+  {
+    "name": "Corsair VS600",
+    "producer": "Corsair",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 492
+  },
+  {
+    "name": "Cougar CMD 500 digitales",
+    "producer": "Cougar",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 493
+  },
+  {
+    "name": "Cougar CMD 600 digitales",
+    "producer": "Cougar",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 494
+  },
+  {
+    "name": "COUGAR Gaming 31GM105001P01",
+    "producer": "COUGAR Gaming",
+    "watt": "1050",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 495
+  },
+  {
+    "name": "COUGAR Gaming 31TP065056H-01",
+    "producer": "COUGAR Gaming",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 496
+  },
+  {
+    "name": "COUGAR Gaming 31VG075.0001P",
+    "producer": "COUGAR Gaming",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 497
+  },
+  {
+    "name": "COUGAR Gaming CGR GEXP-650",
+    "producer": "COUGAR Gaming",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 498
+  },
+  {
+    "name": "COUGAR Gaming CGR GEXP-750",
+    "producer": "COUGAR Gaming",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 499
+  },
+  {
+    "name": "COUGAR Gaming CGR GEXP-850",
+    "producer": "COUGAR Gaming",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 500
+  },
+  {
+    "name": "COUGAR Gaming CGR GLE-1000",
+    "producer": "COUGAR Gaming",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 501
+  },
+  {
+    "name": "COUGAR Gaming CGR GLE-1200",
+    "producer": "COUGAR Gaming",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 502
+  },
+  {
+    "name": "COUGAR Gaming GEX 1050",
+    "producer": "COUGAR Gaming",
+    "watt": "1050",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 503
+  },
+  {
+    "name": "COUGAR Gaming GEX X2 1000",
+    "producer": "COUGAR Gaming",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 504
+  },
+  {
+    "name": "COUGAR Gaming GST",
+    "producer": "COUGAR Gaming",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 505
+  },
+  {
+    "name": "COUGAR Gaming GST",
+    "producer": "COUGAR Gaming",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 506
+  },
+  {
+    "name": "COUGAR Gaming POLAR",
+    "producer": "COUGAR Gaming",
+    "watt": "1050",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 507
+  },
+  {
+    "name": "COUGAR Gaming POLAR X2",
+    "producer": "COUGAR Gaming",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 508
+  },
+  {
+    "name": "COUGAR Gaming POLAR X2",
+    "producer": "COUGAR Gaming",
+    "watt": "1050",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 509
+  },
+  {
+    "name": "Cougar GX 1050 V3",
+    "producer": "Cougar",
+    "watt": "1050",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 510
+  },
+  {
+    "name": "Cougar GX 600 V3",
+    "producer": "Cougar",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 511
+  },
+  {
+    "name": "Cougar GX 800 V3",
+    "producer": "Cougar",
+    "watt": "800",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 512
+  },
+  {
+    "name": "Cougar GX-F",
+    "producer": "Cougar",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 513
+  },
+  {
+    "name": "Cougar GX-F",
+    "producer": "Cougar",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 514
+  },
+  {
+    "name": "Cougar GX-F",
+    "producer": "Cougar",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 515
+  },
+  {
+    "name": "Cougar GX-S",
+    "producer": "Cougar",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 516
+  },
+  {
+    "name": "Cougar GX-S",
+    "producer": "Cougar",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 517
+  },
+  {
+    "name": "Cougar GX-S",
+    "producer": "Cougar",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 518
+  },
+  {
+    "name": "Cougar GX-S",
+    "producer": "Cougar",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 519
+  },
+  {
+    "name": "Cougar LX500",
+    "producer": "Cougar",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 520
+  },
+  {
+    "name": "Cougar LX600",
+    "producer": "Cougar",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 521
+  },
+  {
+    "name": "Cougar STX",
+    "producer": "Cougar",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 522
+  },
+  {
+    "name": "Cougar STX",
+    "producer": "Cougar",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 523
+  },
+  {
+    "name": "Cougar STX",
+    "producer": "Cougar",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 524
+  },
+  {
+    "name": "Cougar STX",
+    "producer": "Cougar",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 525
+  },
+  {
+    "name": "Cougar STX",
+    "producer": "Cougar",
+    "watt": "350",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 526
+  },
+  {
+    "name": "Cougar VTX",
+    "producer": "Cougar",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 527
+  },
+  {
+    "name": "Cougar VTX",
+    "producer": "Cougar",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 528
+  },
+  {
+    "name": "Cougar VTX",
+    "producer": "Cougar",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 529
+  },
+  {
+    "name": "Cougar VTX",
+    "producer": "Cougar",
+    "watt": "400",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 530
+  },
+  {
+    "name": "Enermax Digifanless digitales",
+    "producer": "Enermax",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 531
+  },
+  {
+    "name": "Enermax Maxpro",
+    "producer": "Enermax",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 532
+  },
+  {
+    "name": "Enermax Platimax",
+    "producer": "Enermax",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 533
+  },
+  {
+    "name": "Enermax Platimax",
+    "producer": "Enermax",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 534
+  },
+  {
+    "name": "Enermax Platimax",
+    "producer": "Enermax",
+    "watt": "1700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 535
+  },
+  {
+    "name": "Enermax Platimax",
+    "producer": "Enermax",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 536
+  },
+  {
+    "name": "Enermax Platimax D.F.",
+    "producer": "Enermax",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 537
+  },
+  {
+    "name": "Enermax Platimax D.F. 80 PLUS Platin",
+    "producer": "Enermax",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 538
+  },
+  {
+    "name": "Enermax Revolution87+",
+    "producer": "Enermax",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 539
+  },
+  {
+    "name": "EVGA",
+    "producer": "EVGA",
+    "watt": "430",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 540
+  },
+  {
+    "name": "EVGA 1000GQ",
+    "producer": "EVGA",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 541
+  },
+  {
+    "name": "EVGA 400 N1",
+    "producer": "EVGA",
+    "watt": "400",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 542
+  },
+  {
+    "name": "EVGA 430 W1",
+    "producer": "EVGA",
+    "watt": "430",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 543
+  },
+  {
+    "name": "EVGA 450 B3",
+    "producer": "EVGA",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 544
+  },
+  {
+    "name": "EVGA 450 BT",
+    "producer": "EVGA",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 545
+  },
+  {
+    "name": "EVGA 450 BV",
+    "producer": "EVGA",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 546
+  },
+  {
+    "name": "EVGA 500 B1",
+    "producer": "EVGA",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 547
+  },
+  {
+    "name": "EVGA 500 BQ",
+    "producer": "EVGA",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 548
+  },
+  {
+    "name": "EVGA 500 BV",
+    "producer": "EVGA",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 549
+  },
+  {
+    "name": "EVGA 500 W1",
+    "producer": "EVGA",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 550
+  },
+  {
+    "name": "EVGA 550 B3",
+    "producer": "EVGA",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 551
+  },
+  {
+    "name": "EVGA 550 N1",
+    "producer": "EVGA",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 552
+  },
+  {
+    "name": "EVGA 600 B1",
+    "producer": "EVGA",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 553
+  },
+  {
+    "name": "EVGA 600 BQ",
+    "producer": "EVGA",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 554
+  },
+  {
+    "name": "EVGA 600 W1",
+    "producer": "EVGA",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 555
+  },
+  {
+    "name": "EVGA 650 B3",
+    "producer": "EVGA",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 556
+  },
+  {
+    "name": "EVGA 650 BQ",
+    "producer": "EVGA",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 557
+  },
+  {
+    "name": "EVGA 650 GQ",
+    "producer": "EVGA",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 558
+  },
+  {
+    "name": "EVGA 650 N1",
+    "producer": "EVGA",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 559
+  },
+  {
+    "name": "EVGA 700 B1",
+    "producer": "EVGA",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 560
+  },
+  {
+    "name": "EVGA 700B",
+    "producer": "EVGA",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 561
+  },
+  {
+    "name": "EVGA 750 B3",
+    "producer": "EVGA",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 562
+  },
+  {
+    "name": "EVGA 750 GQ",
+    "producer": "EVGA",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 563
+  },
+  {
+    "name": "EVGA 750 N1",
+    "producer": "EVGA",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 564
+  },
+  {
+    "name": "EVGA 850 B3",
+    "producer": "EVGA",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 565
+  },
+  {
+    "name": "EVGA 850 BQ",
+    "producer": "EVGA",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 566
+  },
+  {
+    "name": "EVGA 850 GQ",
+    "producer": "EVGA",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 567
+  },
+  {
+    "name": "EVGA B3",
+    "producer": "EVGA",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 568
+  },
+  {
+    "name": "EVGA B3",
+    "producer": "EVGA",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 569
+  },
+  {
+    "name": "EVGA B3",
+    "producer": "EVGA",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 570
+  },
+  {
+    "name": "EVGA B3",
+    "producer": "EVGA",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 571
+  },
+  {
+    "name": "EVGA B3",
+    "producer": "EVGA",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 572
+  },
+  {
+    "name": "EVGA BQ",
+    "producer": "EVGA",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 573
+  },
+  {
+    "name": "EVGA BQ",
+    "producer": "EVGA",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 574
+  },
+  {
+    "name": "EVGA BQ",
+    "producer": "EVGA",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 575
+  },
+  {
+    "name": "EVGA BQ",
+    "producer": "EVGA",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 576
+  },
+  {
+    "name": "EVGA BQ",
+    "producer": "EVGA",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 577
+  },
+  {
+    "name": "EVGA SuperNOVA 1000 G2",
+    "producer": "EVGA",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 578
+  },
+  {
+    "name": "EVGA SuperNOVA 1000 P2",
+    "producer": "EVGA",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 579
+  },
+  {
+    "name": "EVGA SuperNOVA 1000 T2",
+    "producer": "EVGA",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 580
+  },
+  {
+    "name": "EVGA SuperNOVA 1050 GS",
+    "producer": "EVGA",
+    "watt": "1050",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 581
+  },
+  {
+    "name": "EVGA SuperNOVA 1200 P2",
+    "producer": "EVGA",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 582
+  },
+  {
+    "name": "EVGA SuperNOVA 1300 G2",
+    "producer": "EVGA",
+    "watt": "1300",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 583
+  },
+  {
+    "name": "EVGA SuperNOVA 1600 G2",
+    "producer": "EVGA",
+    "watt": "1600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 584
+  },
+  {
+    "name": "EVGA SuperNOVA 1600 P2",
+    "producer": "EVGA",
+    "watt": "1600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 585
+  },
+  {
+    "name": "EVGA SuperNOVA 1600 T2",
+    "producer": "EVGA",
+    "watt": "1600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 586
+  },
+  {
+    "name": "EVGA SuperNOVA 550 G2",
+    "producer": "EVGA",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 587
+  },
+  {
+    "name": "EVGA SuperNOVA 550 GS",
+    "producer": "EVGA",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 588
+  },
+  {
+    "name": "EVGA SuperNOVA 650 G1",
+    "producer": "EVGA",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 589
+  },
+  {
+    "name": "EVGA SuperNOVA 650 G2",
+    "producer": "EVGA",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 590
+  },
+  {
+    "name": "EVGA SuperNOVA 650 P2",
+    "producer": "EVGA",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 591
+  },
+  {
+    "name": "EVGA SuperNOVA 750 B1",
+    "producer": "EVGA",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 592
+  },
+  {
+    "name": "EVGA SuperNOVA 750 B2",
+    "producer": "EVGA",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 593
+  },
+  {
+    "name": "EVGA SuperNOVA 750 G1",
+    "producer": "EVGA",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 594
+  },
+  {
+    "name": "EVGA SuperNOVA 750 G2",
+    "producer": "EVGA",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 595
+  },
+  {
+    "name": "EVGA SuperNOVA 750 P2",
+    "producer": "EVGA",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 596
+  },
+  {
+    "name": "EVGA SuperNOVA 750 T2",
+    "producer": "EVGA",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 597
+  },
+  {
+    "name": "EVGA SuperNOVA 850 B2",
+    "producer": "EVGA",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 598
+  },
+  {
+    "name": "EVGA Supernova 850 G2L",
+    "producer": "EVGA",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 599
+  },
+  {
+    "name": "EVGA SuperNOVA 850 G3",
+    "producer": "EVGA",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 600
+  },
+  {
+    "name": "EVGA SuperNOVA 850 GS",
+    "producer": "EVGA",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 601
+  },
+  {
+    "name": "EVGA SuperNOVA 850 P2",
+    "producer": "EVGA",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 602
+  },
+  {
+    "name": "EVGA SuperNOVA 850 T2",
+    "producer": "EVGA",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 603
+  },
+  {
+    "name": "EVGA SuperNOVA G1",
+    "producer": "EVGA",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 604
+  },
+  {
+    "name": "EVGA SuperNOVA G1",
+    "producer": "EVGA",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 605
+  },
+  {
+    "name": "EVGA SuperNOVA G2",
+    "producer": "EVGA",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 606
+  },
+  {
+    "name": "EVGA SuperNOVA G2L",
+    "producer": "EVGA",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 607
+  },
+  {
+    "name": "EVGA SuperNOVA G2L 80 PLUS Gold",
+    "producer": "EVGA",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 608
+  },
+  {
+    "name": "EVGA SuperNOVA G3",
+    "producer": "EVGA",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 609
+  },
+  {
+    "name": "EVGA SuperNOVA G3",
+    "producer": "EVGA",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 610
+  },
+  {
+    "name": "EVGA SuperNOVA G3",
+    "producer": "EVGA",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 611
+  },
+  {
+    "name": "EVGA SuperNOVA GQ",
+    "producer": "EVGA",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 612
+  },
+  {
+    "name": "EVGA SuperNOVA GQ",
+    "producer": "EVGA",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 613
+  },
+  {
+    "name": "EVGA SuperNOVA GQ",
+    "producer": "EVGA",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 614
+  },
+  {
+    "name": "EVGA SuperNOVA GQ",
+    "producer": "EVGA",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 615
+  },
+  {
+    "name": "EVGA SuperNOVA GS 550",
+    "producer": "EVGA",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 616
+  },
+  {
+    "name": "EVGA SuperNOVA P2",
+    "producer": "EVGA",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 617
+  },
+  {
+    "name": "EVGA SuperNOVA P2",
+    "producer": "EVGA",
+    "watt": "1600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 618
+  },
+  {
+    "name": "EVGA SuperNOVA T2",
+    "producer": "EVGA",
+    "watt": "1600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 619
+  },
+  {
+    "name": "EVGA SuperNOVA T2",
+    "producer": "EVGA",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 620
+  },
+  {
+    "name": "EVGA SuperNOVA T2",
+    "producer": "EVGA",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 621
+  },
+  {
+    "name": "EVGA W1",
+    "producer": "EVGA",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 622
+  },
+  {
+    "name": "FSP ADVAN GM 1000W",
+    "producer": "FSP",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 623
+  },
+  {
+    "name": "FSP DAGGER PRO ATX3.0(PCIe5.0) 850W",
+    "producer": "FSP",
+    "watt": "850",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 624
+  },
+  {
+    "name": "FSP FSP400-50AAC",
+    "producer": "FSP",
+    "watt": "400",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 625
+  },
+  {
+    "name": "FSP FSP460-70PFL(SK)",
+    "producer": "FSP",
+    "watt": "460",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 626
+  },
+  {
+    "name": "FSP H3-550",
+    "producer": "FSP",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 627
+  },
+  {
+    "name": "FSP Hydro G PRO ATX3.0(PCIe5.0) 1000W",
+    "producer": "FSP",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 628
+  },
+  {
+    "name": "FSP Hydro G PRO ATX3.0(PCIe5.0) 1200W",
+    "producer": "FSP",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 629
+  },
+  {
+    "name": "FSP Hydro G PRO ATX3.0(PCIe5.0) 850W",
+    "producer": "FSP",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 630
+  },
+  {
+    "name": "FSP Hydro GT PRO 1000W",
+    "producer": "FSP",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 631
+  },
+  {
+    "name": "FSP Hydro GT PRO ATX3.0(PCIe5.0) 1000W",
+    "producer": "FSP",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 632
+  },
+  {
+    "name": "FSP Hydro GT PRO ATX3.0(PCIe5.0) 850W",
+    "producer": "FSP",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 633
+  },
+  {
+    "name": "FSP Hydro GT PRO ATX3.0(PCIe5.0) 850W",
+    "producer": "FSP",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 634
+  },
+  {
+    "name": "FSP Hydro K PRO 500W",
+    "producer": "FSP",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 635
+  },
+  {
+    "name": "FSP Hydro K PRO 600W",
+    "producer": "FSP",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 636
+  },
+  {
+    "name": "FSP Hydro K PRO 750W",
+    "producer": "FSP",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 637
+  },
+  {
+    "name": "FSP Hydro K PRO 850W",
+    "producer": "FSP",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 638
+  },
+  {
+    "name": "FSP Hydro K PRO ATX3.0(PCIe5.0) 750W",
+    "producer": "FSP",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 639
+  },
+  {
+    "name": "FSP Hydro K PRO ATX3.0(PCIe5.0) 750W",
+    "producer": "FSP",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 640
+  },
+  {
+    "name": "FSP Hydro K PRO ATX3.0(PCIe5.0) 850W",
+    "producer": "FSP",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 641
+  },
+  {
+    "name": "FSP Hydro K PRO ATX3.0(PCIe5.0) 850W",
+    "producer": "FSP",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 642
+  },
+  {
+    "name": "FSP Hydro PTM PRO 1350W ATX3.0(12V-2x6)",
+    "producer": "FSP",
+    "watt": "1350",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 643
+  },
+  {
+    "name": "FSP Hydro PTM PRO 1650W ATX3.0(12V-2x6)",
+    "producer": "FSP",
+    "watt": "1650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 644
+  },
+  {
+    "name": "FSP Hydro PTM PRO ATX3.0(PCIe5.0) 1200W",
+    "producer": "FSP",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 645
+  },
+  {
+    "name": "FSP Hydro PTM X PRO ATX3.0(PCIe5.0) 1000W",
+    "producer": "FSP",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 646
+  },
+  {
+    "name": "FSP Hydro PTM X PRO ATX3.0(PCIe5.0) 1200W",
+    "producer": "FSP",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 647
+  },
+  {
+    "name": "FSP Hydro Ti PRO 1000W",
+    "producer": "FSP",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 648
+  },
+  {
+    "name": "FSP Hydro Ti PRO 850W",
+    "producer": "FSP",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 649
+  },
+  {
+    "name": "FSP HYPER 80+ PRO 450W",
+    "producer": "FSP",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS White",
+    "id": 650
+  },
+  {
+    "name": "FSP HYPER 80+ PRO 550W",
+    "producer": "FSP",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS White",
+    "id": 651
+  },
+  {
+    "name": "FSP HYPER 80+ PRO 650W",
+    "producer": "FSP",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 652
+  },
+  {
+    "name": "FSP HYPER 80+ PRO 700W",
+    "producer": "FSP",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 653
+  },
+  {
+    "name": "FSP Vita",
+    "producer": "FSP",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 654
+  },
+  {
+    "name": "FSP Vita",
+    "producer": "FSP",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 655
+  },
+  {
+    "name": "FSP Vita",
+    "producer": "FSP",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 656
+  },
+  {
+    "name": "FSP Vita",
+    "producer": "FSP",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 657
+  },
+  {
+    "name": "FSP Vita",
+    "producer": "FSP",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 658
+  },
+  {
+    "name": "FSP Vita",
+    "producer": "FSP",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 659
+  },
+  {
+    "name": "FSP Vita",
+    "producer": "FSP",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 660
+  },
+  {
+    "name": "FSP Vita",
+    "producer": "FSP",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 661
+  },
+  {
+    "name": "FSP VITA GM 1000W",
+    "producer": "FSP",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 662
+  },
+  {
+    "name": "FSP VITA GM 650W",
+    "producer": "FSP",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 663
+  },
+  {
+    "name": "FSP VITA GM 750W",
+    "producer": "FSP",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 664
+  },
+  {
+    "name": "FSP VITA GM 850W",
+    "producer": "FSP",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 665
+  },
+  {
+    "name": "GIGABYTE AORUS ELITE P1000W",
+    "producer": "GIGABYTE",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 666
+  },
+  {
+    "name": "GIGABYTE AORUS ELITE P1000W",
+    "producer": "GIGABYTE",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 667
+  },
+  {
+    "name": "GIGABYTE AORUS ELITE P1000W ICE",
+    "producer": "GIGABYTE",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 668
+  },
+  {
+    "name": "GIGABYTE AORUS ELITE P1000W ICE",
+    "producer": "GIGABYTE",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 669
+  },
+  {
+    "name": "GIGABYTE AORUS ELITE P850W",
+    "producer": "GIGABYTE",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 670
+  },
+  {
+    "name": "GIGABYTE AORUS ELITE P850W",
+    "producer": "GIGABYTE",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 671
+  },
+  {
+    "name": "GIGABYTE AORUS ELITE P850W ICE",
+    "producer": "GIGABYTE",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 672
+  },
+  {
+    "name": "GIGABYTE AORUS ELITE P850W ICE",
+    "producer": "GIGABYTE",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 673
+  },
+  {
+    "name": "Gigabyte Aorus P750W",
+    "producer": "Gigabyte",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 674
+  },
+  {
+    "name": "Gigabyte Aorus P850W",
+    "producer": "Gigabyte",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 675
+  },
+  {
+    "name": "Gigabyte B700H 80 PLUS Bronze",
+    "producer": "Gigabyte",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 676
+  },
+  {
+    "name": "Gigabyte G750H 80 PLUS Gold",
+    "producer": "Gigabyte",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 677
+  },
+  {
+    "name": "GIGABYTE GP-P650G",
+    "producer": "GIGABYTE",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 678
+  },
+  {
+    "name": "GIGABYTE GP-UD850GM PG5",
+    "producer": "GIGABYTE",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 679
+  },
+  {
+    "name": "Gigabyte P450B",
+    "producer": "Gigabyte",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 680
+  },
+  {
+    "name": "Gigabyte P550B",
+    "producer": "Gigabyte",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 681
+  },
+  {
+    "name": "GIGABYTE P550SS",
+    "producer": "GIGABYTE",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Silver",
+    "id": 682
+  },
+  {
+    "name": "GIGABYTE P550SS ICE",
+    "producer": "GIGABYTE",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Silver",
+    "id": 683
+  },
+  {
+    "name": "GIGABYTE P550SS ICE",
+    "producer": "GIGABYTE",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Silver",
+    "id": 684
+  },
+  {
+    "name": "GIGABYTE P650G",
+    "producer": "GIGABYTE",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 685
+  },
+  {
+    "name": "GIGABYTE P650SS",
+    "producer": "GIGABYTE",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Silver",
+    "id": 686
+  },
+  {
+    "name": "GIGABYTE P650SS ICE",
+    "producer": "GIGABYTE",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Silver",
+    "id": 687
+  },
+  {
+    "name": "GIGABYTE P750BS",
+    "producer": "GIGABYTE",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 688
+  },
+  {
+    "name": "GIGABYTE P750BS",
+    "producer": "GIGABYTE",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 689
+  },
+  {
+    "name": "Gigabyte P850GM",
+    "producer": "Gigabyte",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 690
+  },
+  {
+    "name": "Gigabyte PB500",
+    "producer": "Gigabyte",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 691
+  },
+  {
+    "name": "Gigabyte PW400",
+    "producer": "Gigabyte",
+    "watt": "400",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 692
+  },
+  {
+    "name": "Gigabyte UD1000GM PG5",
+    "producer": "Gigabyte",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 693
+  },
+  {
+    "name": "GIGABYTE UD1000GM PG5",
+    "producer": "GIGABYTE",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 694
+  },
+  {
+    "name": "Gigabyte UD1000GM PG5 2.0",
+    "producer": "Gigabyte",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 695
+  },
+  {
+    "name": "GIGABYTE UD1000GM PG5 V2",
+    "producer": "GIGABYTE",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 696
+  },
+  {
+    "name": "GIGABYTE UD1000GM PG5 V2 ICE",
+    "producer": "GIGABYTE",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 697
+  },
+  {
+    "name": "GIGABYTE UD1300GM PG5",
+    "producer": "GIGABYTE",
+    "watt": "1300",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 698
+  },
+  {
+    "name": "GIGABYTE UD1600PM PG5 AI TOP",
+    "producer": "GIGABYTE",
+    "watt": "1600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 699
+  },
+  {
+    "name": "GIGABYTE UD1600PM PG5 AI TOP",
+    "producer": "GIGABYTE",
+    "watt": "1600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 700
+  },
+  {
+    "name": "GIGABYTE UD1600PM PG5 AI TOP",
+    "producer": "GIGABYTE",
+    "watt": "1600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 701
+  },
+  {
+    "name": "GIGABYTE UD750GM PG5",
+    "producer": "GIGABYTE",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 702
+  },
+  {
+    "name": "GIGABYTE UD750GM PG5 V2",
+    "producer": "GIGABYTE",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 703
+  },
+  {
+    "name": "GIGABYTE UD750GM PG5 V2 ICE",
+    "producer": "GIGABYTE",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 704
+  },
+  {
+    "name": "GIGABYTE UD850GM",
+    "producer": "GIGABYTE",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 705
+  },
+  {
+    "name": "GIGABYTE UD850GM PG5 V2",
+    "producer": "GIGABYTE",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 706
+  },
+  {
+    "name": "GIGABYTE UD850GM PG5 V2 ICE",
+    "producer": "GIGABYTE",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 707
+  },
+  {
+    "name": "GIGABYTE UD850GM PG5W",
+    "producer": "GIGABYTE",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 708
+  },
+  {
+    "name": "GIGABYTE UD850GM PG5W",
+    "producer": "GIGABYTE",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 709
+  },
+  {
+    "name": "Gigabyte XP1200M",
+    "producer": "Gigabyte",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 710
+  },
+  {
+    "name": "MSI MAG A1000GL PCIE5",
+    "producer": "MSI",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 711
+  },
+  {
+    "name": "MSI MAG A1000GLS PCIE5",
+    "producer": "MSI",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 712
+  },
+  {
+    "name": "MSI MAG A1250GL PCIE5",
+    "producer": "MSI",
+    "watt": "1250",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 713
+  },
+  {
+    "name": "MSI MAG A550BN",
+    "producer": "MSI",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 714
+  },
+  {
+    "name": "MSI MAG A550BNL",
+    "producer": "MSI",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 715
+  },
+  {
+    "name": "MSI MAG A650BE",
+    "producer": "MSI",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 716
+  },
+  {
+    "name": "MSI MAG A650BN",
+    "producer": "MSI",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 717
+  },
+  {
+    "name": "MSI MAG A650BNL",
+    "producer": "MSI",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 718
+  },
+  {
+    "name": "MSI MAG A650BNL",
+    "producer": "MSI",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 719
+  },
+  {
+    "name": "MSI MAG A650GL",
+    "producer": "MSI",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 720
+  },
+  {
+    "name": "MSI MAG A650GLS PCIE5",
+    "producer": "MSI",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 721
+  },
+  {
+    "name": "MSI MAG A750BN PCIE5",
+    "producer": "MSI",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 722
+  },
+  {
+    "name": "MSI MAG A750GL PCIE5",
+    "producer": "MSI",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 723
+  },
+  {
+    "name": "MSI MAG A750GL PCIE5 II",
+    "producer": "MSI",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 724
+  },
+  {
+    "name": "MSI MAG A750GLS PCIE5",
+    "producer": "MSI",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 725
+  },
+  {
+    "name": "MSI MAG A750GN PCIE5",
+    "producer": "MSI",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 726
+  },
+  {
+    "name": "MSI MAG A850GL PCIe5",
+    "producer": "MSI",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 727
+  },
+  {
+    "name": "MSI MAG A850GL PCIE5 II",
+    "producer": "MSI",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 728
+  },
+  {
+    "name": "MSI MAG A850GL PCIE5 WHITE",
+    "producer": "MSI",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 729
+  },
+  {
+    "name": "MSI MAG A850GLS PCIE5",
+    "producer": "MSI",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 730
+  },
+  {
+    "name": "MSI MAG A850GN PCIE5",
+    "producer": "MSI",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 731
+  },
+  {
+    "name": "MSI MEG AI1300P PCIE5",
+    "producer": "MSI",
+    "watt": "1300",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 732
+  },
+  {
+    "name": "MSI MEG Ai1600T PCIE5",
+    "producer": "MSI",
+    "watt": "1600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 733
+  },
+  {
+    "name": "MSI MPG A1000G",
+    "producer": "MSI",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 734
+  },
+  {
+    "name": "MSI MPG A1000G PCIE5",
+    "producer": "MSI",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 735
+  },
+  {
+    "name": "MSI MPG A1000G PCIE5",
+    "producer": "MSI",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 736
+  },
+  {
+    "name": "MSI MPG A1000GS PCIE5",
+    "producer": "MSI",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 737
+  },
+  {
+    "name": "MSI MPG A1250GS PCIE5",
+    "producer": "MSI",
+    "watt": "1250",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 738
+  },
+  {
+    "name": "MSI MPG A650GF",
+    "producer": "MSI",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 739
+  },
+  {
+    "name": "MSI MPG A750GF",
+    "producer": "MSI",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 740
+  },
+  {
+    "name": "MSI MPG A750GF White",
+    "producer": "MSI",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 741
+  },
+  {
+    "name": "MSI MPG A750GF WHITE",
+    "producer": "MSI",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 742
+  },
+  {
+    "name": "MSI MPG A850G",
+    "producer": "MSI",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 743
+  },
+  {
+    "name": "MSI MPG A850G PCIE5",
+    "producer": "MSI",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 744
+  },
+  {
+    "name": "MSI MPG A850GF",
+    "producer": "MSI",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 745
+  },
+  {
+    "name": "MSI MPG A850GS PCIE5",
+    "producer": "MSI",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 746
+  },
+  {
+    "name": "NZXT E500 Modular",
+    "producer": "NZXT",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 747
+  },
+  {
+    "name": "NZXT E650 Modular",
+    "producer": "NZXT",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 748
+  },
+  {
+    "name": "NZXT E850 Modular",
+    "producer": "NZXT",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 749
+  },
+  {
+    "name": "Seasonic CONNECT 750 Gold",
+    "producer": "Seasonic",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 750
+  },
+  {
+    "name": "Seasonic Eco 80 PLUS Bronze",
+    "producer": "Seasonic",
+    "watt": "430",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 751
+  },
+  {
+    "name": "Seasonic FOCUS 650 GOLD",
+    "producer": "Seasonic",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 752
+  },
+  {
+    "name": "Seasonic FOCUS 750 GOLD",
+    "producer": "Seasonic",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 753
+  },
+  {
+    "name": "Seasonic Focus 80 PLUS Gold",
+    "producer": "Seasonic",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 754
+  },
+  {
+    "name": "Seasonic Focus GX 80 PLUS Gold",
+    "producer": "Seasonic",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 755
+  },
+  {
+    "name": "Seasonic Focus Plus",
+    "producer": "Seasonic",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 756
+  },
+  {
+    "name": "Seasonic Focus Plus Gold",
+    "producer": "Seasonic",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 757
+  },
+  {
+    "name": "Seasonic Focus Plus Gold",
+    "producer": "Seasonic",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 758
+  },
+  {
+    "name": "Seasonic Focus Plus Gold",
+    "producer": "Seasonic",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 759
+  },
+  {
+    "name": "Seasonic Focus Plus Gold",
+    "producer": "Seasonic",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 760
+  },
+  {
+    "name": "Seasonic Focus Plus PCGH Edition",
+    "producer": "Seasonic",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 761
+  },
+  {
+    "name": "Seasonic Focus Plus Platinum",
+    "producer": "Seasonic",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 762
+  },
+  {
+    "name": "Seasonic Focus PX 80 PLUS Platinum",
+    "producer": "Seasonic",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 763
+  },
+  {
+    "name": "Seasonic Focus PX 80 PLUS Platinum",
+    "producer": "Seasonic",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 764
+  },
+  {
+    "name": "Seasonic Focus PX 80 Plus Platinum 650 Watt",
+    "producer": "Seasonic",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 765
+  },
+  {
+    "name": "Seasonic Focus SGX 80 PLUS Gold SFX-L",
+    "producer": "Seasonic",
+    "watt": "500",
+    "size": "SFX-L",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 766
+  },
+  {
+    "name": "Seasonic Focus+",
+    "producer": "Seasonic",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 767
+  },
+  {
+    "name": "Seasonic Focus+",
+    "producer": "Seasonic",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 768
+  },
+  {
+    "name": "Seasonic Focus+",
+    "producer": "Seasonic",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 769
+  },
+  {
+    "name": "Seasonic G-360",
+    "producer": "Seasonic",
+    "watt": "360",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 770
+  },
+  {
+    "name": "Seasonic G-450",
+    "producer": "Seasonic",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 771
+  },
+  {
+    "name": "Seasonic G-550",
+    "producer": "Seasonic",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 772
+  },
+  {
+    "name": "Seasonic G-Series",
+    "producer": "Seasonic",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 773
+  },
+  {
+    "name": "Seasonic G-Series",
+    "producer": "Seasonic",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 774
+  },
+  {
+    "name": "Seasonic G-Series",
+    "producer": "Seasonic",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 775
+  },
+  {
+    "name": "Seasonic G-Series",
+    "producer": "Seasonic",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 776
+  },
+  {
+    "name": "Seasonic G-Series",
+    "producer": "Seasonic",
+    "watt": "360",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 777
+  },
+  {
+    "name": "Seasonic G-Series",
+    "producer": "Seasonic",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 778
+  },
+  {
+    "name": "Seasonic G12 80 PLUS Gold",
+    "producer": "Seasonic",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 779
+  },
+  {
+    "name": "Seasonic G12 80 PLUS Gold",
+    "producer": "Seasonic",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 780
+  },
+  {
+    "name": "Seasonic G12 80 PLUS Gold",
+    "producer": "Seasonic",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 781
+  },
+  {
+    "name": "Seasonic G12-GC-550 Gold",
+    "producer": "Seasonic",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 782
+  },
+  {
+    "name": "Seasonic G12-GC-650 Gold",
+    "producer": "Seasonic",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 783
+  },
+  {
+    "name": "Seasonic M12II 850",
+    "producer": "Seasonic",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 784
+  },
+  {
+    "name": "Seasonic M12II EVO 620",
+    "producer": "Seasonic",
+    "watt": "620",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 785
+  },
+  {
+    "name": "Seasonic M12II Evo 80 PLUS Bronze",
+    "producer": "Seasonic",
+    "watt": "520",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 786
+  },
+  {
+    "name": "Seasonic M12II Evo, AM2 80 PLUS Bronze",
+    "producer": "Seasonic",
+    "watt": "620",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 787
+  },
+  {
+    "name": "Seasonic M12II-750 EVO",
+    "producer": "Seasonic",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 788
+  },
+  {
+    "name": "Seasonic P-Series",
+    "producer": "Seasonic",
+    "watt": "860",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 789
+  },
+  {
+    "name": "Seasonic P-Series",
+    "producer": "Seasonic",
+    "watt": "520",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 790
+  },
+  {
+    "name": "Seasonic P-Series",
+    "producer": "Seasonic",
+    "watt": "760",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 791
+  },
+  {
+    "name": "Seasonic P-Series",
+    "producer": "Seasonic",
+    "watt": "660",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 792
+  },
+  {
+    "name": "Seasonic P-Series",
+    "producer": "Seasonic",
+    "watt": "1050",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 793
+  },
+  {
+    "name": "Seasonic Platinum 1000",
+    "producer": "Seasonic",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 794
+  },
+  {
+    "name": "Seasonic Platinum 460 Fanless",
+    "producer": "Seasonic",
+    "watt": "460",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 795
+  },
+  {
+    "name": "Seasonic Platinum 520 Fanless",
+    "producer": "Seasonic",
+    "watt": "520",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 796
+  },
+  {
+    "name": "Seasonic PLATINUM 660",
+    "producer": "Seasonic",
+    "watt": "660",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 797
+  },
+  {
+    "name": "Seasonic Platinum 760",
+    "producer": "Seasonic",
+    "watt": "760",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 798
+  },
+  {
+    "name": "Seasonic PLATINUM 860",
+    "producer": "Seasonic",
+    "watt": "860",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 799
+  },
+  {
+    "name": "Seasonic Prime",
+    "producer": "Seasonic",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 800
+  },
+  {
+    "name": "Seasonic Prime",
+    "producer": "Seasonic",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 801
+  },
+  {
+    "name": "Seasonic Prime",
+    "producer": "Seasonic",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 802
+  },
+  {
+    "name": "Seasonic Prime",
+    "producer": "Seasonic",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 803
+  },
+  {
+    "name": "Seasonic Prime",
+    "producer": "Seasonic",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 804
+  },
+  {
+    "name": "Seasonic Prime",
+    "producer": "Seasonic",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 805
+  },
+  {
+    "name": "Seasonic Prime",
+    "producer": "Seasonic",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 806
+  },
+  {
+    "name": "Seasonic PRIME 1200 PLATINUM",
+    "producer": "Seasonic",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 807
+  },
+  {
+    "name": "Seasonic PRIME 1200 W Gold",
+    "producer": "Seasonic",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 808
+  },
+  {
+    "name": "Seasonic PRIME 750 GOLD",
+    "producer": "Seasonic",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 809
+  },
+  {
+    "name": "Seasonic Prime 80 PLUS Gold",
+    "producer": "Seasonic",
+    "watt": "1300",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 810
+  },
+  {
+    "name": "Seasonic Prime 80 PLUS Platinum",
+    "producer": "Seasonic",
+    "watt": "1300",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 811
+  },
+  {
+    "name": "Seasonic Prime Fanless 80 PLUS Titanium",
+    "producer": "Seasonic",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 812
+  },
+  {
+    "name": "Seasonic Prime Fanless PX",
+    "producer": "Seasonic",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 813
+  },
+  {
+    "name": "Seasonic Prime Fanless PX",
+    "producer": "Seasonic",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 814
+  },
+  {
+    "name": "Seasonic Prime Fanless TX",
+    "producer": "Seasonic",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 815
+  },
+  {
+    "name": "Seasonic Prime GX 80 PLUS Gold",
+    "producer": "Seasonic",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 816
+  },
+  {
+    "name": "Seasonic Prime PX 80 PLUS Platinum",
+    "producer": "Seasonic",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 817
+  },
+  {
+    "name": "Seasonic Prime Snow Silent 80 PLUS Gold",
+    "producer": "Seasonic",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 818
+  },
+  {
+    "name": "Seasonic Prime Snow Silent 80 PLUS Platinum",
+    "producer": "Seasonic",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 819
+  },
+  {
+    "name": "Seasonic Prime Snow Silent 80 PLUS Titanium",
+    "producer": "Seasonic",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 820
+  },
+  {
+    "name": "Seasonic Prime TX 80 PLUS Titanium",
+    "producer": "Seasonic",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 821
+  },
+  {
+    "name": "Seasonic Prime TX 80 PLUS Titanium",
+    "producer": "Seasonic",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 822
+  },
+  {
+    "name": "Seasonic Prime TX 80 PLUS Titanium",
+    "producer": "Seasonic",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 823
+  },
+  {
+    "name": "Seasonic Prime Ultra",
+    "producer": "Seasonic",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 824
+  },
+  {
+    "name": "Seasonic PRIME ULTRA 1000 GOLD",
+    "producer": "Seasonic",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 825
+  },
+  {
+    "name": "Seasonic Prime Ultra 80 PLUS Gold",
+    "producer": "Seasonic",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 826
+  },
+  {
+    "name": "Seasonic Prime Ultra 80 PLUS Platinum",
+    "producer": "Seasonic",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 827
+  },
+  {
+    "name": "Seasonic Prime Ultra 80 PLUS Platinum",
+    "producer": "Seasonic",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 828
+  },
+  {
+    "name": "Seasonic Prime Ultra 80 PLUS Platinum",
+    "producer": "Seasonic",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 829
+  },
+  {
+    "name": "Seasonic PRIME ULTRA 850 GOLD",
+    "producer": "Seasonic",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 830
+  },
+  {
+    "name": "Seasonic S12G",
+    "producer": "Seasonic",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 831
+  },
+  {
+    "name": "Seasonic S12G-750",
+    "producer": "Seasonic",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 832
+  },
+  {
+    "name": "Seasonic S12II",
+    "producer": "Seasonic",
+    "watt": "430",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 833
+  },
+  {
+    "name": "Seasonic S12II 430",
+    "producer": "Seasonic",
+    "watt": "430",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 834
+  },
+  {
+    "name": "Seasonic S12II 620",
+    "producer": "Seasonic",
+    "watt": "620",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 835
+  },
+  {
+    "name": "Seasonic S12II, GB 80 PLUS Bronze",
+    "producer": "Seasonic",
+    "watt": "520",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 836
+  },
+  {
+    "name": "Seasonic S12II, GB 80 PLUS Bronze",
+    "producer": "Seasonic",
+    "watt": "620",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 837
+  },
+  {
+    "name": "Seasonic S12III 80 PLUS Bronze",
+    "producer": "Seasonic",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 838
+  },
+  {
+    "name": "Seasonic S12III 80 PLUS Bronze",
+    "producer": "Seasonic",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 839
+  },
+  {
+    "name": "Seasonic S12III 80 PLUS Bronze",
+    "producer": "Seasonic",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 840
+  },
+  {
+    "name": "Seasonic Snow Silent",
+    "producer": "Seasonic",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 841
+  },
+  {
+    "name": "Seasonic SS-350ES 80 PLUS Bronze, bulk",
+    "producer": "Seasonic",
+    "watt": "350",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 842
+  },
+  {
+    "name": "Seasonic SS-400ES",
+    "producer": "Seasonic",
+    "watt": "400",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 843
+  },
+  {
+    "name": "Seasonic Vertex GX 80 PLUS Gold",
+    "producer": "Seasonic",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 844
+  },
+  {
+    "name": "Seasonic Vertex GX 80 PLUS Gold",
+    "producer": "Seasonic",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 845
+  },
+  {
+    "name": "Seasonic Vertex GX 80 PLUS Gold",
+    "producer": "Seasonic",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 846
+  },
+  {
+    "name": "Seasonic X-1050",
+    "producer": "Seasonic",
+    "watt": "1050",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 847
+  },
+  {
+    "name": "Seasonic X-1250",
+    "producer": "Seasonic",
+    "watt": "1250",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 848
+  },
+  {
+    "name": "Seasonic X-650",
+    "producer": "Seasonic",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 849
+  },
+  {
+    "name": "Seasonic X-850",
+    "producer": "Seasonic",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 850
+  },
+  {
+    "name": "Seasonic X-Series",
+    "producer": "Seasonic",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 851
+  },
+  {
+    "name": "Seasonic X-Series",
+    "producer": "Seasonic",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 852
+  },
+  {
+    "name": "Seasonic X-Series",
+    "producer": "Seasonic",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 853
+  },
+  {
+    "name": "Silverstone DA850-G",
+    "producer": "Silverstone",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 854
+  },
+  {
+    "name": "SilverStone NJ700 80 PLUS Titanium",
+    "producer": "Silverstone",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 855
+  },
+  {
+    "name": "SilverStone SST-DA1650-G Decathalon Series 80 PLUS Gold",
+    "producer": "Silverstone",
+    "watt": "1650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 856
+  },
+  {
+    "name": "SilverStone SST-DA750R-GMA 80 PLUS Gold",
+    "producer": "Silverstone",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 857
+  },
+  {
+    "name": "SilverStone SST-DA750R-GMA-WWW 80 PLUS Gold",
+    "producer": "Silverstone",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 858
+  },
+  {
+    "name": "Silverstone SST-ET500-ARGB",
+    "producer": "Silverstone",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 859
+  },
+  {
+    "name": "Silverstone SST-ET550-B v1.2 ATX",
+    "producer": "Silverstone",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 860
+  },
+  {
+    "name": "SilverStone SST-ET650-B v1.4 Strider Essential Series 80 PLUS Bronze",
+    "producer": "Silverstone",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 861
+  },
+  {
+    "name": "SilverStone SST-ET750-B v1.1 Strider Essential Series 80 PLUS Bronze",
+    "producer": "Silverstone",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 862
+  },
+  {
+    "name": "Silverstone SST-EX1200R-PL Platinum",
+    "producer": "Silverstone",
+    "watt": "1200",
+    "size": "SFX-L",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 863
+  },
+  {
+    "name": "SilverStone SST-EX500-B Extreme SFX",
+    "producer": "Silverstone",
+    "watt": "500",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 864
+  },
+  {
+    "name": "SilverStone SST-EX850R-PM Extreme SFX",
+    "producer": "Silverstone",
+    "watt": "850",
+    "size": "SFX",
+    "efficiencyRating": "N/A",
+    "id": 865
+  },
+  {
+    "name": "SilverStone SST-FX350-G Flex Series 80 PLUS Gold",
+    "producer": "Silverstone",
+    "watt": "350",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 866
+  },
+  {
+    "name": "Silverstone SST-GM1000-2UG V2 redundantes 2HE-",
+    "producer": "Silverstone",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "N/A",
+    "id": 867
+  },
+  {
+    "name": "Silverstone SST-GM600-2UG V2 redundantes 2HE-",
+    "producer": "Silverstone",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "N/A",
+    "id": 868
+  },
+  {
+    "name": "Silverstone SST-GM800-2UG V2 redundantes 2HE-",
+    "producer": "Silverstone",
+    "watt": "800",
+    "size": "ATX",
+    "efficiencyRating": "N/A",
+    "id": 869
+  },
+  {
+    "name": "Silverstone SST-HA2050R-PM Platinum",
+    "producer": "Silverstone",
+    "watt": "2050",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 870
+  },
+  {
+    "name": "SilverStone SST-HA850R-PM - Cybenetics Platinum",
+    "producer": "Silverstone",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "N/A",
+    "id": 871
+  },
+  {
+    "name": "Silverstone SST-NJ520 Nightjar-Series",
+    "producer": "Silverstone",
+    "watt": "520",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 872
+  },
+  {
+    "name": "Silverstone SST-ST1000-G Strider Evolution v2.0 Gold Series",
+    "producer": "Silverstone",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 873
+  },
+  {
+    "name": "Silverstone SST-ST1000-P Strider",
+    "producer": "Silverstone",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Silver",
+    "id": 874
+  },
+  {
+    "name": "Silverstone SST-ST1000-PT Strider 80 PLUS Platinum",
+    "producer": "Silverstone",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 875
+  },
+  {
+    "name": "SilverStone SST-ST1000-PTS Strider Platinum Series 80 PLUS Platinum",
+    "producer": "Silverstone",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 876
+  },
+  {
+    "name": "Silverstone SST-ST1100-TI Strider 80 PLUS Titanium modular - 1.100 Watt",
+    "producer": "Silverstone",
+    "watt": "1100",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 877
+  },
+  {
+    "name": "Silverstone SST-ST1200-G Strider Evolution Gold Series",
+    "producer": "Silverstone",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 878
+  },
+  {
+    "name": "Silverstone SST-ST1200-PT Strider 80 PLUS Platinum",
+    "producer": "Silverstone",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 879
+  },
+  {
+    "name": "SilverStone SST-ST1200-PTS Strider Platinum Series 80 PLUS Platinum",
+    "producer": "Silverstone",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 880
+  },
+  {
+    "name": "Silverstone SST-ST1300-TI Strider 80 PLUS Titanium modular - 1.300 Watt",
+    "producer": "Silverstone",
+    "watt": "1300",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 881
+  },
+  {
+    "name": "Silverstone SST-ST1300-TI v 2.0 Strider 80 PLUS Titanium",
+    "producer": "Silverstone",
+    "watt": "1300",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 882
+  },
+  {
+    "name": "Silverstone SST-ST1500-GS Strider Gold Series vollmodular",
+    "producer": "Silverstone",
+    "watt": "1500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 883
+  },
+  {
+    "name": "Silverstone SST-ST1500-TI Strider 80 PLUS Titanium modular",
+    "producer": "Silverstone",
+    "watt": "1500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 884
+  },
+  {
+    "name": "Silverstone SST-ST1500-TI v1.1",
+    "producer": "Silverstone",
+    "watt": "1500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 885
+  },
+  {
+    "name": "Silverstone SST-ST30SF V2.0 Strider SFX Bronze",
+    "producer": "Silverstone",
+    "watt": "300",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 886
+  },
+  {
+    "name": "Silverstone SST-ST40F-ES230 Strider Essential Series",
+    "producer": "Silverstone",
+    "watt": "400",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 887
+  },
+  {
+    "name": "Silverstone SST-ST40F-ESB Strider Essential Series Bronze",
+    "producer": "Silverstone",
+    "watt": "400",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 888
+  },
+  {
+    "name": "Silverstone SST-ST45SF V3.0 80 PLUS Bronze SFX",
+    "producer": "Silverstone",
+    "watt": "450",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 889
+  },
+  {
+    "name": "Silverstone SST-ST45SF-G V2.0 Strider Serie SFX Gold",
+    "producer": "Silverstone",
+    "watt": "450",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 890
+  },
+  {
+    "name": "Silverstone SST-ST50F-ES230 v2.0 Strider Essential Series",
+    "producer": "Silverstone",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 891
+  },
+  {
+    "name": "Silverstone SST-ST50F-ESB Strider Essential Series Bronze",
+    "producer": "Silverstone",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 892
+  },
+  {
+    "name": "Silverstone SST-ST50F-ESG Strider Essential Series Gold",
+    "producer": "Silverstone",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 893
+  },
+  {
+    "name": "Silverstone SST-ST50F-PB Strider Plus Bronze modular",
+    "producer": "Silverstone",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 894
+  },
+  {
+    "name": "Silverstone SST-ST55F-G V2.0 Strider Gold Series",
+    "producer": "Silverstone",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 895
+  },
+  {
+    "name": "SilverStone SST-ST55F-PB Strider Plus Series 80 PLUS Bronze",
+    "producer": "Silverstone",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 896
+  },
+  {
+    "name": "Silverstone SST-ST55F-PT Strider 80 PLUS Platinum",
+    "producer": "Silverstone",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 897
+  },
+  {
+    "name": "Silverstone SST-ST60F-ES230 Strider Essential Series",
+    "producer": "Silverstone",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 898
+  },
+  {
+    "name": "Silverstone SST-ST60F-ESB Strider Essential Series Bronze",
+    "producer": "Silverstone",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 899
+  },
+  {
+    "name": "Silverstone SST-ST60F-ESG Strider Essential Series Gold",
+    "producer": "Silverstone",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 900
+  },
+  {
+    "name": "Silverstone SST-ST60F-PB modular, Strider 80 PLUS Bronze",
+    "producer": "Silverstone",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 901
+  },
+  {
+    "name": "Silverstone SST-ST60F-TI Strider 80 PLUS Titanium modular",
+    "producer": "Silverstone",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 902
+  },
+  {
+    "name": "SilverStone SST-ST65F-ES230 Strider Essential Series 80 PLUS",
+    "producer": "Silverstone",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 903
+  },
+  {
+    "name": "Silverstone SST-ST65F-G Strider Gold Series",
+    "producer": "Silverstone",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 904
+  },
+  {
+    "name": "SilverStone SST-ST65F-GS v 1.1 Strider Gold S Series 80 PLUS Gold",
+    "producer": "Silverstone",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 905
+  },
+  {
+    "name": "SilverStone SST-ST65F-PB Strider Plus Series 80 PLUS Bronze",
+    "producer": "Silverstone",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 906
+  },
+  {
+    "name": "Silverstone SST-ST65F-PT Strider 80 PLUS Platinum",
+    "producer": "Silverstone",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 907
+  },
+  {
+    "name": "Silverstone SST-ST70F-ES230 Strider Essential Series",
+    "producer": "Silverstone",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 908
+  },
+  {
+    "name": "Silverstone SST-ST70F-ESB Strider Essential Series Bronze",
+    "producer": "Silverstone",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 909
+  },
+  {
+    "name": "Silverstone SST-ST70F-ESG Strider Essential Series Gold",
+    "producer": "Silverstone",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 910
+  },
+  {
+    "name": "Silverstone SST-ST70F-PB modular, Strider 80 PLUS Bronze",
+    "producer": "Silverstone",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 911
+  },
+  {
+    "name": "Silverstone SST-ST70F-TI Strider 80 PLUS Titanium modular",
+    "producer": "Silverstone",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 912
+  },
+  {
+    "name": "Silverstone SST-ST75F-GS Strider Gold Series",
+    "producer": "Silverstone",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 913
+  },
+  {
+    "name": "Silverstone SST-ST75F-GS v 3.1 Strider",
+    "producer": "Silverstone",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 914
+  },
+  {
+    "name": "Silverstone SST-ST75F-P Strider Plus",
+    "producer": "Silverstone",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Silver",
+    "id": 915
+  },
+  {
+    "name": "SilverStone SST-ST75F-PB Strider Plus Series 80 PLUS Bronze",
+    "producer": "Silverstone",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 916
+  },
+  {
+    "name": "Silverstone SST-ST75F-PT Strider 80 PLUS Platinum",
+    "producer": "Silverstone",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 917
+  },
+  {
+    "name": "Silverstone SST-ST80F-TI Strider 80 PLUS Titanium modular",
+    "producer": "Silverstone",
+    "watt": "800",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 918
+  },
+  {
+    "name": "Silverstone SST-ST85F-GS Strider Gold Series",
+    "producer": "Silverstone",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 919
+  },
+  {
+    "name": "Silverstone SST-ST85F-P Strider Plus",
+    "producer": "Silverstone",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Silver",
+    "id": 920
+  },
+  {
+    "name": "Silverstone SST-ST85F-PT Strider 80 PLUS Platinum",
+    "producer": "Silverstone",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 921
+  },
+  {
+    "name": "Silverstone SST-SX300-B SFX",
+    "producer": "Silverstone",
+    "watt": "300",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 922
+  },
+  {
+    "name": "SilverStone SST-SX450-B SFX Series",
+    "producer": "Silverstone",
+    "watt": "450",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 923
+  },
+  {
+    "name": "Silverstone SST-SX500-G SFX 80 PLUS Gold",
+    "producer": "Silverstone",
+    "watt": "500",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 924
+  },
+  {
+    "name": "Silverstone SST-SX500-G v1.1 SFX",
+    "producer": "Silverstone",
+    "watt": "500",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 925
+  },
+  {
+    "name": "Silverstone SST-SX500-LG v2.1 SFX-L",
+    "producer": "Silverstone",
+    "watt": "500",
+    "size": "SFX-L",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 926
+  },
+  {
+    "name": "Silverstone SST-SX550 SFX 80 PLUS Gold",
+    "producer": "Silverstone",
+    "watt": "550",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 927
+  },
+  {
+    "name": "Silverstone SST-SX650-G SFX 80 PLUS Gold",
+    "producer": "Silverstone",
+    "watt": "650",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 928
+  },
+  {
+    "name": "Silverstone SST-SX700-G v1.1 SFX",
+    "producer": "Silverstone",
+    "watt": "700",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 929
+  },
+  {
+    "name": "Silverstone SST-SX700-LPT SFX-L 80 PLUS Platinum",
+    "producer": "Silverstone",
+    "watt": "700",
+    "size": "SFX-L",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 930
+  },
+  {
+    "name": "Silverstone SST-SX700-LPT v1.1 SFX-L",
+    "producer": "Silverstone",
+    "watt": "700",
+    "size": "SFX-L",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 931
+  },
+  {
+    "name": "Silverstone SST-SX700-PT SFX",
+    "producer": "Silverstone",
+    "watt": "700",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 932
+  },
+  {
+    "name": "SilverStone SST-SX750-G 80 PLUS Gold",
+    "producer": "Silverstone",
+    "watt": "750",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 933
+  },
+  {
+    "name": "Silverstone SST-SX750-PT V.1.1 SFX",
+    "producer": "Silverstone",
+    "watt": "750",
+    "size": "SFX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 934
+  },
+  {
+    "name": "Silverstone SST-TX300 TFX, 80 PLUS Bronze",
+    "producer": "Silverstone",
+    "watt": "300",
+    "size": "TFX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 935
+  },
+  {
+    "name": "SilverStone SST-TX500-G TFX",
+    "producer": "Silverstone",
+    "watt": "500",
+    "size": "TFX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 936
+  },
+  {
+    "name": "Silverstone SST-TX700-G TFX",
+    "producer": "Silverstone",
+    "watt": "700",
+    "size": "TFX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 937
+  },
+  {
+    "name": "SilverStone ST500P",
+    "producer": "Silverstone",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 938
+  },
+  {
+    "name": "Silverstone ST600P",
+    "producer": "Silverstone",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 939
+  },
+  {
+    "name": "Silverstone ST700P",
+    "producer": "Silverstone",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 940
+  },
+  {
+    "name": "Thermaltake Berlin",
+    "producer": "Thermaltake",
+    "watt": "630",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 941
+  },
+  {
+    "name": "Thermaltake Cologne",
+    "producer": "Thermaltake",
+    "watt": "730",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 942
+  },
+  {
+    "name": "Thermaltake Frankfurt",
+    "producer": "Thermaltake",
+    "watt": "830",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 943
+  },
+  {
+    "name": "Thermaltake Hamburg",
+    "producer": "Thermaltake",
+    "watt": "530",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 944
+  },
+  {
+    "name": "Thermaltake London",
+    "producer": "Thermaltake",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 945
+  },
+  {
+    "name": "Thermaltake Madrid",
+    "producer": "Thermaltake",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 946
+  },
+  {
+    "name": "Thermaltake Munich",
+    "producer": "Thermaltake",
+    "watt": "430",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 947
+  },
+  {
+    "name": "Thermaltake Paris",
+    "producer": "Thermaltake",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 948
+  },
+  {
+    "name": "Thermaltake Rome",
+    "producer": "Thermaltake",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 949
+  },
+  {
+    "name": "Thermaltake Smart Pro RGB 80Plus Bronze modular",
+    "producer": "Thermaltake",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 950
+  },
+  {
+    "name": "Thermaltake Smart Pro RGB 80Plus Bronze modular",
+    "producer": "Thermaltake",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 951
+  },
+  {
+    "name": "Thermaltake Smart Pro RGB 80Plus Bronze modular",
+    "producer": "Thermaltake",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 952
+  },
+  {
+    "name": "Thermaltake Smart SE",
+    "producer": "Thermaltake",
+    "watt": "630",
+    "size": "ATX",
+    "efficiencyRating": "N/A",
+    "id": 953
+  },
+  {
+    "name": "Thermaltake Smart SE",
+    "producer": "Thermaltake",
+    "watt": "530",
+    "size": "ATX",
+    "efficiencyRating": "N/A",
+    "id": 954
+  },
+  {
+    "name": "Thermaltake Toughpower DPS G 80 PLUS Platinum",
+    "producer": "Thermaltake",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 955
+  },
+  {
+    "name": "Thermaltake Toughpower DPS G RGB 80Plus Gold",
+    "producer": "Thermaltake",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 956
+  },
+  {
+    "name": "Thermaltake Toughpower DPS G RGB 80Plus Gold",
+    "producer": "Thermaltake",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 957
+  },
+  {
+    "name": "Thermaltake Toughpower DPS G RGB 80Plus Gold",
+    "producer": "Thermaltake",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 958
+  },
+  {
+    "name": "Thermaltake Toughpower GF1 A-RGB 80 Plus Gold",
+    "producer": "Thermaltake",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 959
+  },
+  {
+    "name": "Thermaltake Toughpower GF1 A-RGB 80 Plus Gold",
+    "producer": "Thermaltake",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 960
+  },
+  {
+    "name": "Thermaltake Toughpower GF1 A-RGB 80 Plus Gold",
+    "producer": "Thermaltake",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 961
+  },
+  {
+    "name": "Thermaltake Toughpower Grand RGB 80 PLUS Gold modular",
+    "producer": "Thermaltake",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 962
+  },
+  {
+    "name": "Thermaltake Toughpower Grand RGB 80 PLUS Gold modular",
+    "producer": "Thermaltake",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 963
+  },
+  {
+    "name": "Thermaltake Toughpower Grand RGB 80 PLUS Gold modular",
+    "producer": "Thermaltake",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 964
+  },
+  {
+    "name": "Thermaltake Toughpower iRGB 80 PLUS Platinum",
+    "producer": "Thermaltake",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 965
+  },
+  {
+    "name": "Thermaltake Toughpower iRGB 80 PLUS Platinum",
+    "producer": "Thermaltake",
+    "watt": "1050",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 966
+  },
+  {
+    "name": "Thermaltake Toughpower iRGB 80 PLUS Titanium",
+    "producer": "Thermaltake",
+    "watt": "1250",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 967
+  },
+  {
+    "name": "Thermaltake Toughpower PF1 A-RGB 80 Plus Platinum",
+    "producer": "Thermaltake",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 968
+  },
+  {
+    "name": "Thermaltake Toughpower PF1 A-RGB 80 Plus Platinum",
+    "producer": "Thermaltake",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 969
+  },
+  {
+    "name": "Thermaltake Toughpower PF1 A-RGB 80 Plus Platinum",
+    "producer": "Thermaltake",
+    "watt": "1050",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 970
+  },
+  {
+    "name": "Thermaltake TR2 S",
+    "producer": "Thermaltake",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 971
+  },
+  {
+    "name": "Thermaltake TR2 S",
+    "producer": "Thermaltake",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 972
+  },
+  {
+    "name": "Thermaltake TR2 S 80 PLUS",
+    "producer": "Thermaltake",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 973
+  },
+  {
+    "name": "XFX Black Edition",
+    "producer": "XFX",
+    "watt": "1050",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 974
+  },
+  {
+    "name": "XFX Black Edition",
+    "producer": "XFX",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 975
+  },
+  {
+    "name": "XFX Black Edition",
+    "producer": "XFX",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 976
+  },
+  {
+    "name": "XFX Core Edition PRO V2",
+    "producer": "XFX",
+    "watt": "450",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 977
+  },
+  {
+    "name": "XFX PRO1000W Black Edition Full Modular",
+    "producer": "XFX",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 978
+  },
+  {
+    "name": "XFX TS-Series  Single Rail",
+    "producer": "XFX",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 979
+  },
+  {
+    "name": "XFX TS-Series  Single Rail",
+    "producer": "XFX",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 980
+  },
+  {
+    "name": "XFX TS-Series  Single Rail",
+    "producer": "XFX",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 981
+  },
+  {
+    "name": "XFX XT",
+    "producer": "XFX",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 982
+  },
+  {
+    "name": "XFX XT",
+    "producer": "XFX",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 983
+  },
+  {
+    "name": "XFX XT",
+    "producer": "XFX",
+    "watt": "400",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 984
+  },
+  {
+    "name": "XFX XTR Series",
+    "producer": "XFX",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 985
+  },
+  {
+    "name": "XFX XTS Fanless Series",
+    "producer": "XFX",
+    "watt": "520",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 986
+  },
+  {
+    "name": "XFX XTS Fanless Series",
+    "producer": "XFX",
+    "watt": "460",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 987
+  },
+  {
+    "name": "XFX XXX Edition Pro",
+    "producer": "XFX",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 988
+  },
+  {
+    "name": "XPG COREREACTOR II 1000W",
+    "producer": "XPG",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 989
+  },
+  {
+    "name": "XPG COREREACTOR II 1200W",
+    "producer": "XPG",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 990
+  },
+  {
+    "name": "XPG COREREACTOR II 650W",
+    "producer": "XPG",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 991
+  },
+  {
+    "name": "XPG COREREACTOR II 750W",
+    "producer": "XPG",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 992
+  },
+  {
+    "name": "XPG COREREACTOR II 850W",
+    "producer": "XPG",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 993
+  },
+  {
+    "name": "XPG COREREACTOR II 850W",
+    "producer": "XPG",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 994
+  },
+  {
+    "name": "XPG COREREACTOR II VE 650W",
+    "producer": "XPG",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 995
+  },
+  {
+    "name": "XPG COREREACTOR II VE 750W",
+    "producer": "XPG",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 996
+  },
+  {
+    "name": "XPG COREREACTOR II VE 850W",
+    "producer": "XPG",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 997
+  },
+  {
+    "name": "XPG CYBERCORE 1000W",
+    "producer": "XPG",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 998
+  },
+  {
+    "name": "XPG CYBERCORE 1300W",
+    "producer": "XPG",
+    "watt": "1300",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 999
+  },
+  {
+    "name": "XPG CYBERCORE II 1000W",
+    "producer": "XPG",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 1000
+  },
+  {
+    "name": "XPG CYBERCORE II 1300W",
+    "producer": "XPG",
+    "watt": "1300",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Platinum",
+    "id": 1001
+  },
+  {
+    "name": "XPG FUSION 1600W",
+    "producer": "XPG",
+    "watt": "1600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Titanium",
+    "id": 1002
+  },
+  {
+    "name": "XPG KYBER 650W",
+    "producer": "XPG",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 1003
+  },
+  {
+    "name": "XPG KYBER 750W",
+    "producer": "XPG",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 1004
+  },
+  {
+    "name": "XPG KYBER 850W",
+    "producer": "XPG",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 1005
+  },
+  {
+    "name": "XPG PROBE 700 BRONZE",
+    "producer": "XPG",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 1006
+  },
+  {
+    "name": "XPG PROBE BRONZE",
+    "producer": "XPG",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 1007
+  },
+  {
+    "name": "XPG PYLON 750W",
+    "producer": "XPG",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 1008
+  },
+  {
+    "name": "XPG PYLON II 550w",
+    "producer": "XPG",
+    "watt": "550",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 1009
+  },
+  {
+    "name": "XPG PYMCORE 850w SFX GOLD",
+    "producer": "XPG",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 1010
+  },
+  {
+    "name": "Zalman 1000EBT",
+    "producer": "Zalman",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 1011
+  },
+  {
+    "name": "Zalman 1200EBT 80 PLUS Gold",
+    "producer": "Zalman",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 1012
+  },
+  {
+    "name": "Zalman 500GVM",
+    "producer": "Zalman",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 1013
+  },
+  {
+    "name": "Zalman 500TX",
+    "producer": "Zalman",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 1014
+  },
+  {
+    "name": "Zalman 600GVM",
+    "producer": "Zalman",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 1015
+  },
+  {
+    "name": "Zalman 600TX",
+    "producer": "Zalman",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 1016
+  },
+  {
+    "name": "Zalman 650EBT",
+    "producer": "Zalman",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 1017
+  },
+  {
+    "name": "Zalman 700GVM",
+    "producer": "Zalman",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 1018
+  },
+  {
+    "name": "Zalman 700TX",
+    "producer": "Zalman",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 1019
+  },
+  {
+    "name": "Zalman 750EBT 80 PLUS Gold",
+    "producer": "Zalman",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 1020
+  },
+  {
+    "name": "Zalman 850EBT",
+    "producer": "Zalman",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 1021
+  },
+  {
+    "name": "Zalman Decamax",
+    "producer": "Zalman",
+    "watt": "500",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 1022
+  },
+  {
+    "name": "Zalman Decamax",
+    "producer": "Zalman",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 1023
+  },
+  {
+    "name": "Zalman Decamax",
+    "producer": "Zalman",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 1024
+  },
+  {
+    "name": "Zalman GigaMax III",
+    "producer": "Zalman",
+    "watt": "650",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 1025
+  },
+  {
+    "name": "Zalman GigaMax III",
+    "producer": "Zalman",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 1026
+  },
+  {
+    "name": "Zalman GigaMax III",
+    "producer": "Zalman",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 1027
+  },
+  {
+    "name": "Zalman GV2SE",
+    "producer": "Zalman",
+    "watt": "800",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 1028
+  },
+  {
+    "name": "Zalman TeramaxII SE",
+    "producer": "Zalman",
+    "watt": "850",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 1029
+  },
+  {
+    "name": "Zalman TeramaxII SE",
+    "producer": "Zalman",
+    "watt": "750",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 1030
+  },
+  {
+    "name": "Zalman ZM1000-EBTII 80 PLUS Gold",
+    "producer": "Zalman",
+    "watt": "1000",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 1031
+  },
+  {
+    "name": "Zalman ZM1200-EBTII 80 PLUS Gold",
+    "producer": "Zalman",
+    "watt": "1200",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 1032
+  },
+  {
+    "name": "Zalman ZM600-TXII V2 MegaMax 80PLUS 230V EU STANDARD Certified high efficiency PCI-E",
+    "producer": "Zalman",
+    "watt": "600",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 1033
+  },
+  {
+    "name": "Zalman ZM700-EBTII 80 PLUS Gold",
+    "producer": "Zalman",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 1034
+  },
+  {
+    "name": "Zalman ZM700-GV2SE",
+    "producer": "Zalman",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Bronze",
+    "id": 1035
+  },
+  {
+    "name": "Zalman ZM700-TXII V2 MegaMax 80PLUS 230V EU STANDARD Certified high efficiency PCI-E",
+    "producer": "Zalman",
+    "watt": "700",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 1036
+  },
+  {
+    "name": "Zalman ZM800-EBTII 80 PLUS Gold",
+    "producer": "Zalman",
+    "watt": "800",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS Gold",
+    "id": 1037
+  },
+  {
+    "name": "Zalman ZM800-TXII MegaMax 80PLUS 230V EU STANDARD Certified high efficiency PCI-E",
+    "producer": "Zalman",
+    "watt": "800",
+    "size": "ATX",
+    "efficiencyRating": "80 PLUS",
+    "id": 1038
+  }
+]

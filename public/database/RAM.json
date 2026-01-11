@@ -1,0 +1,3791 @@
+[
+  {
+    "name": "ADATA Lancer DDR5-5200",
+    "producer": "ADATA",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "5200",
+    "timings": "38",
+    "id": 1
+  },
+  {
+    "name": "ADATA Premier DDR5-4800",
+    "producer": "ADATA",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 2
+  },
+  {
+    "name": "Ballistix Sport DDR4-2400 CL16",
+    "producer": "Ballistix",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2400",
+    "timings": "N/A",
+    "id": 3
+  },
+  {
+    "name": "Ballistix Sport DDR4-2400 CL16",
+    "producer": "Ballistix",
+    "ramType": "DDR4",
+    "size": "4 GB",
+    "clock": "2400",
+    "timings": "N/A",
+    "id": 4
+  },
+  {
+    "name": "Ballistix Sport LT DDR4-2400 red CL16",
+    "producer": "Ballistix",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "2400",
+    "timings": "N/A",
+    "id": 5
+  },
+  {
+    "name": "Corsair Dominator Platinum DDR4-2666 CL15",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "2666",
+    "timings": "N/A",
+    "id": 6
+  },
+  {
+    "name": "Corsair Value Select DDR4-2133  CL15",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 7
+  },
+  {
+    "name": "Corsair Value Select DDR4-2133  CL15  black",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "4 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 8
+  },
+  {
+    "name": "Corsair Vengeance LED blue DDR4-3000  CL15",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "64 GB",
+    "clock": "3000",
+    "timings": "N/A",
+    "id": 9
+  },
+  {
+    "name": "Corsair Vengeance LED red DDR4-2666  CL16",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "2666",
+    "timings": "N/A",
+    "id": 10
+  },
+  {
+    "name": "Corsair Vengeance LED red DDR4-3000  CL15",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "64 GB",
+    "clock": "3000",
+    "timings": "N/A",
+    "id": 11
+  },
+  {
+    "name": "Corsair Vengeance LED white DDR4-2666  CL16",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "2666",
+    "timings": "N/A",
+    "id": 12
+  },
+  {
+    "name": "Corsair Vengeance LED white DDR4-2666  CL16",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "64 GB",
+    "clock": "2666",
+    "timings": "N/A",
+    "id": 13
+  },
+  {
+    "name": "Corsair Vengeance LED white DDR4-3000  CL15",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "64 GB",
+    "clock": "3000",
+    "timings": "N/A",
+    "id": 14
+  },
+  {
+    "name": "Corsair Vengeance LPX Black DDR4-2666  CL16",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "128 GB",
+    "clock": "2666",
+    "timings": "N/A",
+    "id": 15
+  },
+  {
+    "name": "Corsair Vengeance LPX red DDR4-2400MHz CL14",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "4 GB",
+    "clock": "2400",
+    "timings": "N/A",
+    "id": 16
+  },
+  {
+    "name": "Corsair Vengeance LPX red DDR4-2666 CL16",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2666",
+    "timings": "N/A",
+    "id": 17
+  },
+  {
+    "name": "Corsair Vengeance LPX black DDR4-2400MHz CL14",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "4 GB",
+    "clock": "2400",
+    "timings": "N/A",
+    "id": 18
+  },
+  {
+    "name": "Corsair Vengeance LPX black DDR4-2666MHz CL16",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2666",
+    "timings": "N/A",
+    "id": 19
+  },
+  {
+    "name": "Crucial Ballistix Elite Series DDR4-2666, CL16 - 8 GB",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2666",
+    "timings": "16",
+    "id": 20
+  },
+  {
+    "name": "Crucial Ballistix Sport LT DDR4-2400 CL16",
+    "producer": "Ballistix",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "2400",
+    "timings": "N/A",
+    "id": 21
+  },
+  {
+    "name": "Crucial Ballistix Sport LT DDR4-2400 red CL16",
+    "producer": "Ballistix",
+    "ramType": "DDR4",
+    "size": "64 GB",
+    "clock": "2400",
+    "timings": "N/A",
+    "id": 22
+  },
+  {
+    "name": "Crucial Ballistix Sport LT grey DDR4-2666 CL16",
+    "producer": "Ballistix",
+    "ramType": "DDR4",
+    "size": "4 GB",
+    "clock": "2666",
+    "timings": "N/A",
+    "id": 23
+  },
+  {
+    "name": "Crucial Ballistix Sport LT grey DDR4-2666 CL16",
+    "producer": "Ballistix",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2666",
+    "timings": "N/A",
+    "id": 24
+  },
+  {
+    "name": "Crucial Ballistix Sport LT grey DDR4-2666 CL16",
+    "producer": "Ballistix",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2666",
+    "timings": "N/A",
+    "id": 25
+  },
+  {
+    "name": "Crucial Ballistix Sport LT red DDR4-2666 CL16",
+    "producer": "Ballistix",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2666",
+    "timings": "N/A",
+    "id": 26
+  },
+  {
+    "name": "Crucial Ballistix Sport LT Series grey DDR4-2400, CL16 - 8 GB",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2400",
+    "timings": "16",
+    "id": 27
+  },
+  {
+    "name": "Crucial Ballistix Sport LT Series red, DDR4-2400, CL16 - 8 GB",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2400",
+    "timings": "16",
+    "id": 28
+  },
+  {
+    "name": "Crucial Ballistix Sport LT Series white, DDR4-2400, CL16 - 8 GB",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2400",
+    "timings": "16",
+    "id": 29
+  },
+  {
+    "name": "Crucial Ballistix Sport LT white DDR4-2666 CL16",
+    "producer": "Ballistix",
+    "ramType": "DDR4",
+    "size": "4 GB",
+    "clock": "2666",
+    "timings": "N/A",
+    "id": 30
+  },
+  {
+    "name": "Crucial Ballistix Sport LT white DDR4-2666 CL16",
+    "producer": "Ballistix",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2666",
+    "timings": "N/A",
+    "id": 31
+  },
+  {
+    "name": "Crucial Ballistix Tactical DDR4-3000 CL15",
+    "producer": "Ballistix",
+    "ramType": "DDR4",
+    "size": "4 GB",
+    "clock": "3000",
+    "timings": "N/A",
+    "id": 32
+  },
+  {
+    "name": "Crucial DDR4-2133 CL15",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "4 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 33
+  },
+  {
+    "name": "Crucial DDR4-2133 CL15",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 34
+  },
+  {
+    "name": "Crucial Value Series DDR4-2133, CL15 - 8 GB",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2133",
+    "timings": "15",
+    "id": 35
+  },
+  {
+    "name": "G.Skill Aegis DDR4 DDR4-2133 4GB",
+    "producer": "G.Skill",
+    "ramType": "DDR4",
+    "size": "4 GB",
+    "clock": "2133",
+    "timings": "15",
+    "id": 36
+  },
+  {
+    "name": "G.Skill Aegis DDR4 DDR4-2133 8GB",
+    "producer": "G.Skill",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2133",
+    "timings": "15",
+    "id": 37
+  },
+  {
+    "name": "G.Skill Aegis DDR4 DDR4-2400 4GB",
+    "producer": "G.Skill",
+    "ramType": "DDR4",
+    "size": "4 GB",
+    "clock": "2400",
+    "timings": "15",
+    "id": 38
+  },
+  {
+    "name": "G.Skill Aegis DDR4 DDR4-2400 8GB",
+    "producer": "G.Skill",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2400",
+    "timings": "15",
+    "id": 39
+  },
+  {
+    "name": "G.Skill Aegis DDR4 DDR4-3000 8GB",
+    "producer": "G.Skill",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3000",
+    "timings": "16",
+    "id": 40
+  },
+  {
+    "name": "G.Skill Value DDR4-2133 8GB",
+    "producer": "G.Skill",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2133",
+    "timings": "15",
+    "id": 41
+  },
+  {
+    "name": "G.Skill Value DDR4-2400 8GB",
+    "producer": "G.Skill",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2400",
+    "timings": "15",
+    "id": 42
+  },
+  {
+    "name": "G.Skill Value DDR4-2400 8GB",
+    "producer": "G.Skill",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2400",
+    "timings": "15",
+    "id": 43
+  },
+  {
+    "name": "HyperX Fury black DDR4-2133 CL14",
+    "producer": "HyperX",
+    "ramType": "DDR4",
+    "size": "4 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 44
+  },
+  {
+    "name": "HyperX Fury black DDR4-2133 CL14",
+    "producer": "HyperX",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 45
+  },
+  {
+    "name": "HyperX Predator DDR4-3000 CL15",
+    "producer": "HyperX",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "3000",
+    "timings": "N/A",
+    "id": 46
+  },
+  {
+    "name": "HyperX Savage DDR4-2666 CL15",
+    "producer": "HyperX",
+    "ramType": "DDR4",
+    "size": "128 GB",
+    "clock": "2666",
+    "timings": "N/A",
+    "id": 47
+  },
+  {
+    "name": "HyperX Savage black DDR4-2133 CL13",
+    "producer": "HyperX",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 48
+  },
+  {
+    "name": "HyperX Savage black DDR4-2133 CL13",
+    "producer": "HyperX",
+    "ramType": "DDR4",
+    "size": "4 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 49
+  },
+  {
+    "name": "HyperX Savage black DDR4-2400 CL12 XMP",
+    "producer": "HyperX",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2400",
+    "timings": "N/A",
+    "id": 50
+  },
+  {
+    "name": "HyperX Savage black DDR4-2400 CL12 XMP",
+    "producer": "HyperX",
+    "ramType": "DDR4",
+    "size": "4 GB",
+    "clock": "2400",
+    "timings": "N/A",
+    "id": 51
+  },
+  {
+    "name": "Kingston Fury Beast",
+    "producer": "Kingston",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "4800",
+    "timings": "38",
+    "id": 52
+  },
+  {
+    "name": "Kingston Fury Beast Black",
+    "producer": "Kingston",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "5200",
+    "timings": "40",
+    "id": 53
+  },
+  {
+    "name": "Kingston Fury Beast Black",
+    "producer": "Kingston",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "5200",
+    "timings": "40",
+    "id": 54
+  },
+  {
+    "name": "Kingston Value  DDR4-2133  CL15",
+    "producer": "Kingston",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 55
+  },
+  {
+    "name": "Kingston Value  DDR4-2133  CL15  kit",
+    "producer": "Kingston",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 56
+  },
+  {
+    "name": "Kingston Value  DDR4-2133  CL15 reg. ECC",
+    "producer": "Kingston",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 57
+  },
+  {
+    "name": "Kingston Value  DDR4-2133 CL15",
+    "producer": "Kingston",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 58
+  },
+  {
+    "name": "Kingston Value  DDR4-2400  CL17",
+    "producer": "Kingston",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2400",
+    "timings": "N/A",
+    "id": 59
+  },
+  {
+    "name": "Kingston Value  DDR4-2400  CL17",
+    "producer": "Kingston",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2400",
+    "timings": "N/A",
+    "id": 60
+  },
+  {
+    "name": "Kingston ValueRAM",
+    "producer": "Kingston",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 61
+  },
+  {
+    "name": "Team Group Elite Plus Series black, DDR4-2400, CL16 - 8 GB",
+    "producer": "Team Group",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2400",
+    "timings": "16",
+    "id": 62
+  },
+  {
+    "name": "ADATA Lancer",
+    "producer": "ADATA",
+    "ramType": "DDR5",
+    "size": "8 GB",
+    "clock": "5200",
+    "timings": "38",
+    "id": 63
+  },
+  {
+    "name": "ADATA Lancer Blade",
+    "producer": "ADATA",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "5600",
+    "timings": "45",
+    "id": 64
+  },
+  {
+    "name": "ADATA SPECTRIX D35G",
+    "producer": "ADATA",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3200",
+    "timings": "16",
+    "id": 65
+  },
+  {
+    "name": "ADATA SPECTRIX D35G",
+    "producer": "ADATA",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3200",
+    "timings": "16",
+    "id": 66
+  },
+  {
+    "name": "ADATA SPECTRIX D35G",
+    "producer": "ADATA",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "3600",
+    "timings": "18",
+    "id": 67
+  },
+  {
+    "name": "ADATA SPECTRIX D35G",
+    "producer": "ADATA",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3600",
+    "timings": "18",
+    "id": 68
+  },
+  {
+    "name": "ADATA SPECTRIX D35G",
+    "producer": "ADATA",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "3600",
+    "timings": "18",
+    "id": 69
+  },
+  {
+    "name": "ADATA SPECTRIX D35G",
+    "producer": "ADATA",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3200",
+    "timings": "16",
+    "id": 70
+  },
+  {
+    "name": "ADATA SPECTRIX D35G",
+    "producer": "ADATA",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3200",
+    "timings": "16",
+    "id": 71
+  },
+  {
+    "name": "ADATA SPECTRIX D35G",
+    "producer": "ADATA",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3600",
+    "timings": "18",
+    "id": 72
+  },
+  {
+    "name": "ADATA SPECTRIX D35G",
+    "producer": "ADATA",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "3200",
+    "timings": "16",
+    "id": 73
+  },
+  {
+    "name": "ADATA SPECTRIX D35G",
+    "producer": "ADATA",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3600",
+    "timings": "18",
+    "id": 74
+  },
+  {
+    "name": "ADATA SPECTRIX D35G",
+    "producer": "ADATA",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "3200",
+    "timings": "16",
+    "id": 75
+  },
+  {
+    "name": "ADATA SPECTRIX D35G",
+    "producer": "ADATA",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3600",
+    "timings": "18",
+    "id": 76
+  },
+  {
+    "name": "ADATA XPG Gammix D10",
+    "producer": "ADATA",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3000",
+    "timings": "16",
+    "id": 77
+  },
+  {
+    "name": "ADATA XPG Gammix D10",
+    "producer": "ADATA",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3000",
+    "timings": "16",
+    "id": 78
+  },
+  {
+    "name": "ADATA XPG Gammix D10",
+    "producer": "ADATA",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2400",
+    "timings": "16",
+    "id": 79
+  },
+  {
+    "name": "Ballistix Elite DDR4-2666 CL16",
+    "producer": "Ballistix",
+    "ramType": "DDR4",
+    "size": "4 GB",
+    "clock": "2666",
+    "timings": "N/A",
+    "id": 80
+  },
+  {
+    "name": "Ballistix Tactical DDR4-3000 CL15",
+    "producer": "Ballistix",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3000",
+    "timings": "N/A",
+    "id": 81
+  },
+  {
+    "name": "Corsair 16GB",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2400",
+    "timings": "16",
+    "id": 82
+  },
+  {
+    "name": "Corsair 8GB",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2400",
+    "timings": "16",
+    "id": 83
+  },
+  {
+    "name": "Corsair Dominator Platinum DDR4-2400 CL14",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "128 GB",
+    "clock": "2400",
+    "timings": "N/A",
+    "id": 84
+  },
+  {
+    "name": "Corsair Dominator Platinum DDR4-2666 CL15",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "128 GB",
+    "clock": "2666",
+    "timings": "N/A",
+    "id": 85
+  },
+  {
+    "name": "Corsair Dominator Platinum DDR4-2800 CL14",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "128 GB",
+    "clock": "2800",
+    "timings": "N/A",
+    "id": 86
+  },
+  {
+    "name": "Corsair Dominator Platinum DDR4-2800 CL14",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "64 GB",
+    "clock": "2800",
+    "timings": "N/A",
+    "id": 87
+  },
+  {
+    "name": "Corsair Dominator Platinum DDR4-3000 CL16",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "128 GB",
+    "clock": "3000",
+    "timings": "N/A",
+    "id": 88
+  },
+  {
+    "name": "Corsair LPX 16GB",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2400",
+    "timings": "16",
+    "id": 89
+  },
+  {
+    "name": "Corsair LPX 16GB",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2400",
+    "timings": "14",
+    "id": 90
+  },
+  {
+    "name": "Corsair LPX 16GB",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3000",
+    "timings": "15",
+    "id": 91
+  },
+  {
+    "name": "Corsair ValueSelect",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2133",
+    "timings": "15",
+    "id": 92
+  },
+  {
+    "name": "Corsair ValueSelect",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "4 GB",
+    "clock": "2133",
+    "timings": "15",
+    "id": 93
+  },
+  {
+    "name": "Corsair ValueSelect",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2133",
+    "timings": "15",
+    "id": 94
+  },
+  {
+    "name": "Corsair ValueSelect Series DDR4-2133",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2133",
+    "timings": "15",
+    "id": 95
+  },
+  {
+    "name": "Corsair Vengeance LED blue DDR4-3000  CL15",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "3000",
+    "timings": "N/A",
+    "id": 96
+  },
+  {
+    "name": "Corsair Vengeance LED blue DDR4-3200  CL16",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "3200",
+    "timings": "N/A",
+    "id": 97
+  },
+  {
+    "name": "Corsair Vengeance LED blue DDR4-3200  CL16",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "64 GB",
+    "clock": "3200",
+    "timings": "N/A",
+    "id": 98
+  },
+  {
+    "name": "Corsair Vengeance LED red DDR4-3000  CL15",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "3000",
+    "timings": "N/A",
+    "id": 99
+  },
+  {
+    "name": "Corsair Vengeance LED red DDR4-3200  CL16",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "3200",
+    "timings": "N/A",
+    "id": 100
+  },
+  {
+    "name": "Corsair Vengeance LED red DDR4-3200  CL16",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "64 GB",
+    "clock": "3200",
+    "timings": "N/A",
+    "id": 101
+  },
+  {
+    "name": "Corsair Vengeance LED white DDR4-3000  CL15",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "3000",
+    "timings": "N/A",
+    "id": 102
+  },
+  {
+    "name": "Corsair Vengeance LED white DDR4-3200  CL16",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "64 GB",
+    "clock": "3200",
+    "timings": "N/A",
+    "id": 103
+  },
+  {
+    "name": "Corsair Vengeance LPX DDR4-2800 CL14   black",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "64 GB",
+    "clock": "2800",
+    "timings": "N/A",
+    "id": 104
+  },
+  {
+    "name": "Corsair Vengeance LPX DDR4-2800 black CL16",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "2800",
+    "timings": "N/A",
+    "id": 105
+  },
+  {
+    "name": "Corsair Vengeance LPX red DDR4-2133  CL13",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "64 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 106
+  },
+  {
+    "name": "Corsair Vengeance LPX red DDR4-3200  CL16",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "3200",
+    "timings": "N/A",
+    "id": 107
+  },
+  {
+    "name": "Corsair Vengeance LPX black DDR4-2133  CL13",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "64 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 108
+  },
+  {
+    "name": "Corsair Vengeance LPX Series black",
+    "producer": "Corsair",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2666",
+    "timings": "15",
+    "id": 109
+  },
+  {
+    "name": "Crucial Ballistix Elite DDR4-3000 CL15",
+    "producer": "Ballistix",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3000",
+    "timings": "N/A",
+    "id": 110
+  },
+  {
+    "name": "Crucial Ballistix Elite DDR4-3200 CL16",
+    "producer": "Ballistix",
+    "ramType": "DDR4",
+    "size": "4 GB",
+    "clock": "3200",
+    "timings": "N/A",
+    "id": 111
+  },
+  {
+    "name": "Crucial Ballistix Elite series",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "4000",
+    "timings": "18",
+    "id": 112
+  },
+  {
+    "name": "Crucial Ballistix Sport AT",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3000",
+    "timings": "17",
+    "id": 113
+  },
+  {
+    "name": "Crucial Ballistix Sport AT",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3000",
+    "timings": "17",
+    "id": 114
+  },
+  {
+    "name": "Crucial Ballistix Sport AT",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2666",
+    "timings": "16",
+    "id": 115
+  },
+  {
+    "name": "Crucial Ballistix Sport AT",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2666",
+    "timings": "16",
+    "id": 116
+  },
+  {
+    "name": "Crucial Ballistix Sport AT series",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3200",
+    "timings": "16",
+    "id": 117
+  },
+  {
+    "name": "Crucial Ballistix Sport AT series",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3200",
+    "timings": "16",
+    "id": 118
+  },
+  {
+    "name": "Crucial Ballistix Sport LT Series grey",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3000",
+    "timings": "16",
+    "id": 119
+  },
+  {
+    "name": "Crucial Ballistix Sport LT series grey",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3200",
+    "timings": "16",
+    "id": 120
+  },
+  {
+    "name": "Crucial Ballistix Sport LT Series grey",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3000",
+    "timings": "16",
+    "id": 121
+  },
+  {
+    "name": "Crucial Ballistix Sport LT series grey",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3200",
+    "timings": "16",
+    "id": 122
+  },
+  {
+    "name": "Crucial Ballistix Sport LT Series grey",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "4 GB",
+    "clock": "2400",
+    "timings": "16",
+    "id": 123
+  },
+  {
+    "name": "Crucial Ballistix Sport LT series grey",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3000",
+    "timings": "15",
+    "id": 124
+  },
+  {
+    "name": "Crucial Ballistix Sport LT Series grey",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2400",
+    "timings": "16",
+    "id": 125
+  },
+  {
+    "name": "Crucial Ballistix Sport LT series grey",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3000",
+    "timings": "15",
+    "id": 126
+  },
+  {
+    "name": "Crucial Ballistix Sport LT Series grey DDR4-2400",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2400",
+    "timings": "16",
+    "id": 127
+  },
+  {
+    "name": "Crucial Ballistix Sport LT Series grey DDR4-2666",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2666",
+    "timings": "16",
+    "id": 128
+  },
+  {
+    "name": "Crucial Ballistix Sport LT series red",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3200",
+    "timings": "16",
+    "id": 129
+  },
+  {
+    "name": "Crucial Ballistix Sport LT series red",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3000",
+    "timings": "15",
+    "id": 130
+  },
+  {
+    "name": "Crucial Ballistix Sport LT Series red",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "4 GB",
+    "clock": "2666",
+    "timings": "16",
+    "id": 131
+  },
+  {
+    "name": "Crucial Ballistix Sport LT Series red",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "4 GB",
+    "clock": "2400",
+    "timings": "16",
+    "id": 132
+  },
+  {
+    "name": "Crucial Ballistix Sport LT Series red",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2666",
+    "timings": "16",
+    "id": 133
+  },
+  {
+    "name": "Crucial Ballistix Sport LT Series red",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2400",
+    "timings": "16",
+    "id": 134
+  },
+  {
+    "name": "Crucial Ballistix Sport LT Series red",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2666",
+    "timings": "16",
+    "id": 135
+  },
+  {
+    "name": "Crucial Ballistix Sport LT series red",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3000",
+    "timings": "15",
+    "id": 136
+  },
+  {
+    "name": "Crucial Ballistix Sport LT series red",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3200",
+    "timings": "16",
+    "id": 137
+  },
+  {
+    "name": "Crucial Ballistix Sport LT series white",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3200",
+    "timings": "16",
+    "id": 138
+  },
+  {
+    "name": "Crucial Ballistix Sport LT Series white",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "4 GB",
+    "clock": "2400",
+    "timings": "16",
+    "id": 139
+  },
+  {
+    "name": "Crucial Ballistix Sport LT series white",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3000",
+    "timings": "15",
+    "id": 140
+  },
+  {
+    "name": "Crucial Ballistix Sport LT Series white",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2400",
+    "timings": "16",
+    "id": 141
+  },
+  {
+    "name": "Crucial Ballistix Sport LT Series white",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2666",
+    "timings": "16",
+    "id": 142
+  },
+  {
+    "name": "Crucial Ballistix Sport LT series white",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3000",
+    "timings": "15",
+    "id": 143
+  },
+  {
+    "name": "Crucial Ballistix Sport LT series white",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3200",
+    "timings": "16",
+    "id": 144
+  },
+  {
+    "name": "Crucial Ballistix Tactical Tracer RGB",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3200",
+    "timings": "16",
+    "id": 145
+  },
+  {
+    "name": "Crucial DDR4-2133 CL15",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 146
+  },
+  {
+    "name": "Crucial DDR4-2133 CL15",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 147
+  },
+  {
+    "name": "Crucial DDR4-2133 CL15   Reg. ECC",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 148
+  },
+  {
+    "name": "Crucial DDR4-2133 CL15   Reg. ECC",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 149
+  },
+  {
+    "name": "Crucial DDR4-2133 CL15   Reg. ECC",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 150
+  },
+  {
+    "name": "Crucial Value Series DDR4-2400",
+    "producer": "Crucial",
+    "ramType": "DDR4",
+    "size": "4 GB",
+    "clock": "2400",
+    "timings": "17",
+    "id": 151
+  },
+  {
+    "name": "G.Skill Aegis",
+    "producer": "G.Skill",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3200",
+    "timings": "16",
+    "id": 152
+  },
+  {
+    "name": "G.Skill Aegis",
+    "producer": "G.Skill",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3200",
+    "timings": "16",
+    "id": 153
+  },
+  {
+    "name": "G.Skill Aegis DDR4 DDR4-2133 16GB",
+    "producer": "G.Skill",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2133",
+    "timings": "15",
+    "id": 154
+  },
+  {
+    "name": "G.Skill Aegis DDR4 DDR4-2400 16GB",
+    "producer": "G.Skill",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2400",
+    "timings": "15",
+    "id": 155
+  },
+  {
+    "name": "G.Skill Aegis DDR4 DDR4-2800 8GB",
+    "producer": "G.Skill",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2800",
+    "timings": "17",
+    "id": 156
+  },
+  {
+    "name": "G.Skill AEGIS Series",
+    "producer": "G.Skill",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3000",
+    "timings": "16",
+    "id": 157
+  },
+  {
+    "name": "G.Skill AEGIS Series",
+    "producer": "G.Skill",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2400",
+    "timings": "17",
+    "id": 158
+  },
+  {
+    "name": "G.Skill Ripjaws V DDR4-2800 16GB",
+    "producer": "G.Skill",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2800",
+    "timings": "15",
+    "id": 159
+  },
+  {
+    "name": "G.Skill Ripjaws V DDR4-2800 8GB",
+    "producer": "G.Skill",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2800",
+    "timings": "17",
+    "id": 160
+  },
+  {
+    "name": "G.Skill Ripjaws V DDR4-3000 16GB",
+    "producer": "G.Skill",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3000",
+    "timings": "15",
+    "id": 161
+  },
+  {
+    "name": "G.Skill Ripjaws V DDR4-3200 16GB",
+    "producer": "G.Skill",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3200",
+    "timings": "16",
+    "id": 162
+  },
+  {
+    "name": "G.Skill RipJaws V Series",
+    "producer": "G.Skill",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "2666",
+    "timings": "18",
+    "id": 163
+  },
+  {
+    "name": "G.Skill RipJaws V Series",
+    "producer": "G.Skill",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "3200",
+    "timings": "16",
+    "id": 164
+  },
+  {
+    "name": "G.Skill Trident Z DDR4-2800 CL14",
+    "producer": "G. Skill",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "2800",
+    "timings": "N/A",
+    "id": 165
+  },
+  {
+    "name": "G.Skill Trident Z DDR4-3000 CL15",
+    "producer": "G. Skill",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "3000",
+    "timings": "N/A",
+    "id": 166
+  },
+  {
+    "name": "G.Skill Value DDR4-2133 4GB",
+    "producer": "G.Skill",
+    "ramType": "DDR4",
+    "size": "4 GB",
+    "clock": "2133",
+    "timings": "15",
+    "id": 167
+  },
+  {
+    "name": "G.Skill Value Series",
+    "producer": "G.Skill",
+    "ramType": "DDR4",
+    "size": "4 GB",
+    "clock": "2400",
+    "timings": "15",
+    "id": 168
+  },
+  {
+    "name": "G.Skill Value Series",
+    "producer": "G.Skill",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2133",
+    "timings": "15",
+    "id": 169
+  },
+  {
+    "name": "G.Skill Value Series",
+    "producer": "G.Skill",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2666",
+    "timings": "19",
+    "id": 170
+  },
+  {
+    "name": "Goodram 16GB 3200MHz ECC UDIMM W-MEM3200E4D816G",
+    "producer": "Goodram",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 171
+  },
+  {
+    "name": "Goodram 32GB 3200MHz ECC UDIMM W-MEM3200E4D832G",
+    "producer": "Goodram",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 172
+  },
+  {
+    "name": "Goodram GR4800D564L40/32G",
+    "producer": "Goodram",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "5600",
+    "timings": "40",
+    "id": 173
+  },
+  {
+    "name": "Goodram GR5200D564L42S/16G",
+    "producer": "Goodram",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "5200",
+    "timings": "N/A",
+    "id": 174
+  },
+  {
+    "name": "Goodram GR5600D564L46S/16G",
+    "producer": "Goodram",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "5600",
+    "timings": "46",
+    "id": 175
+  },
+  {
+    "name": "Goodram IRDM DDR5 IR-6000D564L36S/16G",
+    "producer": "Goodram",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "6000",
+    "timings": "36",
+    "id": 176
+  },
+  {
+    "name": "Goodram IRDM PRO",
+    "producer": "Goodram",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3600",
+    "timings": "17",
+    "id": 177
+  },
+  {
+    "name": "Goodram IRDM X",
+    "producer": "Goodram",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3200",
+    "timings": "16",
+    "id": 178
+  },
+  {
+    "name": "Goodram IRDM X",
+    "producer": "Goodram",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3000",
+    "timings": "16",
+    "id": 179
+  },
+  {
+    "name": "Goodram Pami?? DDR5 16GB/4800 CL40 - 16 GB",
+    "producer": "Goodram",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "4800",
+    "timings": "N/A",
+    "id": 180
+  },
+  {
+    "name": "Goodram W-MEM3200R4D464G",
+    "producer": "Goodram",
+    "ramType": "DDR4",
+    "size": "64 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 181
+  },
+  {
+    "name": "Kingston Branded DDR4-2133 CL15, 1,2 V Systemspeicher",
+    "producer": "Kingston",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 182
+  },
+  {
+    "name": "Kingston Branded DDR4-2133 CL15, 1,2 V Systemspeicher",
+    "producer": "Kingston",
+    "ramType": "DDR4",
+    "size": "4 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 183
+  },
+  {
+    "name": "Kingston DDR4-2133 CL15 reg ECC  - Lenovo branded",
+    "producer": "Kingston",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 184
+  },
+  {
+    "name": "Kingston DDR4-2133 ECC  - Dell branded PowerEdge R230, R330, T130, T330",
+    "producer": "Kingston",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 185
+  },
+  {
+    "name": "Kingston DDR4-2133 reg ECC  - Dell branded",
+    "producer": "Kingston",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 186
+  },
+  {
+    "name": "Kingston DDR4-2133 reg ECC  - Dell branded",
+    "producer": "Kingston",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 187
+  },
+  {
+    "name": "Kingston DDR4-2133 reg ECC  - Dell branded",
+    "producer": "Kingston",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 188
+  },
+  {
+    "name": "Kingston DDR4-2400 CL17 reg ECC   - HP branded",
+    "producer": "Kingston",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "2400",
+    "timings": "N/A",
+    "id": 189
+  },
+  {
+    "name": "Kingston DDR4-2400 reg ECC  - Dell branded",
+    "producer": "Kingston",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "2400",
+    "timings": "N/A",
+    "id": 190
+  },
+  {
+    "name": "Kingston Fury Renegade Pro",
+    "producer": "Kingston",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "6000",
+    "timings": "32",
+    "id": 191
+  },
+  {
+    "name": "Kingston Fury Renegade Pro",
+    "producer": "Kingston",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "6000",
+    "timings": "32",
+    "id": 192
+  },
+  {
+    "name": "Kingston Server DIMM",
+    "producer": "Kingston",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2666",
+    "timings": "19",
+    "id": 193
+  },
+  {
+    "name": "Kingston Server Premier RDIMM",
+    "producer": "Kingston",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 194
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "3000",
+    "timings": "30",
+    "id": 195
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "3000",
+    "timings": "30",
+    "id": 196
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "3000",
+    "timings": "30",
+    "id": 197
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "3000",
+    "timings": "30",
+    "id": 198
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "3200",
+    "timings": "32",
+    "id": 199
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "1600",
+    "timings": "16",
+    "id": 200
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "1600",
+    "timings": "16",
+    "id": 201
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "1600",
+    "timings": "16",
+    "id": 202
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "1800",
+    "timings": "17",
+    "id": 203
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "1800",
+    "timings": "18",
+    "id": 204
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "1800",
+    "timings": "18",
+    "id": 205
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "3000",
+    "timings": "36",
+    "id": 206
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "2800",
+    "timings": "36",
+    "id": 207
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "2800",
+    "timings": "36",
+    "id": 208
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "5200",
+    "timings": "36",
+    "id": 209
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "2600",
+    "timings": "36",
+    "id": 210
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "3000",
+    "timings": "30",
+    "id": 211
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "3000",
+    "timings": "36",
+    "id": 212
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "8 GB",
+    "clock": "3000",
+    "timings": "40",
+    "id": 213
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "2600",
+    "timings": "40",
+    "id": 214
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "8 GB",
+    "clock": "2400",
+    "timings": "38",
+    "id": 215
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "8 GB",
+    "clock": "2600",
+    "timings": "40",
+    "id": 216
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "2800",
+    "timings": "40",
+    "id": 217
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "2400",
+    "timings": "38",
+    "id": 218
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "5200",
+    "timings": "36",
+    "id": 219
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "3000",
+    "timings": "36",
+    "id": 220
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "2800",
+    "timings": "36",
+    "id": 221
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "2800",
+    "timings": "36",
+    "id": 222
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "3000",
+    "timings": "40",
+    "id": 223
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "2600",
+    "timings": "36",
+    "id": 224
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "3000",
+    "timings": "36",
+    "id": 225
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "8 GB",
+    "clock": "3000",
+    "timings": "36",
+    "id": 226
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "3000",
+    "timings": "36",
+    "id": 227
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "2600",
+    "timings": "36",
+    "id": 228
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "2600",
+    "timings": "36",
+    "id": 229
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "2600",
+    "timings": "40",
+    "id": 230
+  },
+  {
+    "name": "Kingston Technology FURY Beast",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3200",
+    "timings": "16",
+    "id": 231
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "1600",
+    "timings": "16",
+    "id": 232
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "1600",
+    "timings": "16",
+    "id": 233
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "1800",
+    "timings": "18",
+    "id": 234
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "1600",
+    "timings": "16",
+    "id": 235
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "1600",
+    "timings": "16",
+    "id": 236
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "1800",
+    "timings": "17",
+    "id": 237
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "3000",
+    "timings": "30",
+    "id": 238
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "3000",
+    "timings": "30",
+    "id": 239
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "3000",
+    "timings": "30",
+    "id": 240
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "2400",
+    "timings": "38",
+    "id": 241
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "2400",
+    "timings": "38",
+    "id": 242
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "2600",
+    "timings": "40",
+    "id": 243
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "2600",
+    "timings": "40",
+    "id": 244
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "3000",
+    "timings": "40",
+    "id": 245
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "2800",
+    "timings": "40",
+    "id": 246
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "8 GB",
+    "clock": "2800",
+    "timings": "40",
+    "id": 247
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "2800",
+    "timings": "40",
+    "id": 248
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "8 GB",
+    "clock": "3000",
+    "timings": "40",
+    "id": 249
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "2600",
+    "timings": "36",
+    "id": 250
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "3000",
+    "timings": "36",
+    "id": 251
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "2800",
+    "timings": "36",
+    "id": 252
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "3000",
+    "timings": "36",
+    "id": 253
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "8 GB",
+    "clock": "3000",
+    "timings": "36",
+    "id": 254
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "8 GB",
+    "clock": "2800",
+    "timings": "36",
+    "id": 255
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "2800",
+    "timings": "36",
+    "id": 256
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "3000",
+    "timings": "40",
+    "id": 257
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "3000",
+    "timings": "36",
+    "id": 258
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "2800",
+    "timings": "40",
+    "id": 259
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "2800",
+    "timings": "36",
+    "id": 260
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "2600",
+    "timings": "36",
+    "id": 261
+  },
+  {
+    "name": "Kingston Technology FURY Beast RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "3000",
+    "timings": "36",
+    "id": 262
+  },
+  {
+    "name": "Kingston Technology FURY Renegade",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "48 GB",
+    "clock": "3000",
+    "timings": "32",
+    "id": 263
+  },
+  {
+    "name": "Kingston Technology FURY Renegade",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "1800",
+    "timings": "16",
+    "id": 264
+  },
+  {
+    "name": "Kingston Technology FURY Renegade",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "1800",
+    "timings": "16",
+    "id": 265
+  },
+  {
+    "name": "Kingston Technology FURY Renegade",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "3000",
+    "timings": "32",
+    "id": 266
+  },
+  {
+    "name": "Kingston Technology FURY Renegade Pro",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "3200",
+    "timings": "32",
+    "id": 267
+  },
+  {
+    "name": "Kingston Technology FURY Renegade Pro",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "3200",
+    "timings": "32",
+    "id": 268
+  },
+  {
+    "name": "Kingston Technology FURY Renegade Pro",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "5600",
+    "timings": "28",
+    "id": 269
+  },
+  {
+    "name": "Kingston Technology FURY Renegade Pro",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "6400",
+    "timings": "32",
+    "id": 270
+  },
+  {
+    "name": "Kingston Technology FURY Renegade Pro",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "6800",
+    "timings": "34",
+    "id": 271
+  },
+  {
+    "name": "Kingston Technology FURY Renegade Pro",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "3000",
+    "timings": "32",
+    "id": 272
+  },
+  {
+    "name": "Kingston Technology FURY Renegade Pro",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "2400",
+    "timings": "36",
+    "id": 273
+  },
+  {
+    "name": "Kingston Technology FURY Renegade Pro",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "2800",
+    "timings": "36",
+    "id": 274
+  },
+  {
+    "name": "Kingston Technology FURY Renegade RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "3000",
+    "timings": "32",
+    "id": 275
+  },
+  {
+    "name": "Kingston Technology FURY Renegade RGB",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "3000",
+    "timings": "32",
+    "id": 276
+  },
+  {
+    "name": "Kingston Technology KCP548UD8-32",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 277
+  },
+  {
+    "name": "Kingston Technology KCP548US6-8",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "8 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 278
+  },
+  {
+    "name": "Kingston Technology KCP548US8-16",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 279
+  },
+  {
+    "name": "Kingston Technology KCP552UD8-32",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "5200",
+    "timings": "42",
+    "id": 280
+  },
+  {
+    "name": "Kingston Technology KCP552US6-8",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "8 GB",
+    "clock": "5200",
+    "timings": "42",
+    "id": 281
+  },
+  {
+    "name": "Kingston Technology KCP552US8-16",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "5200",
+    "timings": "42",
+    "id": 282
+  },
+  {
+    "name": "Kingston Technology KCP556UD8-32",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "5600",
+    "timings": "46",
+    "id": 283
+  },
+  {
+    "name": "Kingston Technology KCP556US6-8",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "8 GB",
+    "clock": "5600",
+    "timings": "46",
+    "id": 284
+  },
+  {
+    "name": "Kingston Technology KCP556US8-16",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "5600",
+    "timings": "46",
+    "id": 285
+  },
+  {
+    "name": "Kingston Technology KSM26ED8/32MF",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "2666",
+    "timings": "19",
+    "id": 286
+  },
+  {
+    "name": "Kingston Technology KSM26ES8/16MF",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2666",
+    "timings": "19",
+    "id": 287
+  },
+  {
+    "name": "Kingston Technology KSM26RD4/64HCR",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "64 GB",
+    "clock": "2666",
+    "timings": "19",
+    "id": 288
+  },
+  {
+    "name": "Kingston Technology KSM26RD4/64MFR",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "64 GB",
+    "clock": "2666",
+    "timings": "19",
+    "id": 289
+  },
+  {
+    "name": "Kingston Technology KSM26RD8/32HCR",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "2666",
+    "timings": "19",
+    "id": 290
+  },
+  {
+    "name": "Kingston Technology KSM26RD8/32MFR",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "2666",
+    "timings": "19",
+    "id": 291
+  },
+  {
+    "name": "Kingston Technology KSM26RS4/32HCR",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "2666",
+    "timings": "19",
+    "id": 292
+  },
+  {
+    "name": "Kingston Technology KSM26RS4/32MFR",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "2666",
+    "timings": "19",
+    "id": 293
+  },
+  {
+    "name": "Kingston Technology KSM26RS8/16HCR",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2666",
+    "timings": "19",
+    "id": 294
+  },
+  {
+    "name": "Kingston Technology KSM26RS8/16MFR",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2666",
+    "timings": "19",
+    "id": 295
+  },
+  {
+    "name": "Kingston Technology KSM32ES8/16MF",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 296
+  },
+  {
+    "name": "Kingston Technology KSM32ES8/8HE",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 297
+  },
+  {
+    "name": "Kingston Technology KSM32RD4/64HCR",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "64 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 298
+  },
+  {
+    "name": "Kingston Technology KSM32RD4/64HD",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "64 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 299
+  },
+  {
+    "name": "Kingston Technology KSM32RD4/64MFR",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "64 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 300
+  },
+  {
+    "name": "Kingston Technology KSM32RD4/64SC",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "64 GB",
+    "clock": "1600",
+    "timings": "22",
+    "id": 301
+  },
+  {
+    "name": "Kingston Technology KSM32RD8/16HE",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 302
+  },
+  {
+    "name": "Kingston Technology KSM32RD8/32HCR",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 303
+  },
+  {
+    "name": "Kingston Technology KSM32RD8/32HD",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 304
+  },
+  {
+    "name": "Kingston Technology KSM32RD8/32MFR",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 305
+  },
+  {
+    "name": "Kingston Technology KSM32RS4/32HCR",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 306
+  },
+  {
+    "name": "Kingston Technology KSM32RS4/32MFR",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 307
+  },
+  {
+    "name": "Kingston Technology KSM32RS4L/32MFR",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 308
+  },
+  {
+    "name": "Kingston Technology KSM32RS8/16HCR",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 309
+  },
+  {
+    "name": "Kingston Technology KSM32RS8/16MFR",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 310
+  },
+  {
+    "name": "Kingston Technology KSM32RS8/8HDR",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 311
+  },
+  {
+    "name": "Kingston Technology KSM32RS8/8HE",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 312
+  },
+  {
+    "name": "Kingston Technology KSM32RS8L/16MFR",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 313
+  },
+  {
+    "name": "Kingston Technology KSM48E40BD8KI-32HA",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "2400",
+    "timings": "40",
+    "id": 314
+  },
+  {
+    "name": "Kingston Technology KSM48E40BD8KM-32HM",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 315
+  },
+  {
+    "name": "Kingston Technology KSM48E40BS8KI-16HA",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "2400",
+    "timings": "40",
+    "id": 316
+  },
+  {
+    "name": "Kingston Technology KSM48E40BS8KM-16HM",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 317
+  },
+  {
+    "name": "Kingston Technology KSM48R40BD4TMM-64HMR",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "64 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 318
+  },
+  {
+    "name": "Kingston Technology KSM48R40BD8KMM-32HMR",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 319
+  },
+  {
+    "name": "Kingston Technology KSM48R40BS4TMM-32HMR",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 320
+  },
+  {
+    "name": "Kingston Technology KSM48R40BS8KMM-16HMR",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 321
+  },
+  {
+    "name": "Kingston Technology KSM52E42BD8KM-32HA",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "5200",
+    "timings": "42",
+    "id": 322
+  },
+  {
+    "name": "Kingston Technology KSM52E42BS8KM-16HA",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "5200",
+    "timings": "42",
+    "id": 323
+  },
+  {
+    "name": "Kingston Technology KSM56E46BD8KM-32HA",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "5600",
+    "timings": "46",
+    "id": 324
+  },
+  {
+    "name": "Kingston Technology KSM56E46BD8KM-48HM",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "48 GB",
+    "clock": "2800",
+    "timings": "46",
+    "id": 325
+  },
+  {
+    "name": "Kingston Technology KSM56E46BS8KM-16HA",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "5600",
+    "timings": "46",
+    "id": 326
+  },
+  {
+    "name": "Kingston Technology KSM56R46BD4PMI-64HAI",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "64 GB",
+    "clock": "2800",
+    "timings": "46",
+    "id": 327
+  },
+  {
+    "name": "Kingston Technology KSM56R46BD4PMI-96HMI",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "96 GB",
+    "clock": "2800",
+    "timings": "46",
+    "id": 328
+  },
+  {
+    "name": "Kingston Technology KSM56R46BD4PMI-96MBI",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "96 GB",
+    "clock": "2800",
+    "timings": "46",
+    "id": 329
+  },
+  {
+    "name": "Kingston Technology KSM56R46BD8PMI-32MDI",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "2800",
+    "timings": "46",
+    "id": 330
+  },
+  {
+    "name": "Kingston Technology KSM56R46BS4PMI-32MDI",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "2800",
+    "timings": "46",
+    "id": 331
+  },
+  {
+    "name": "Kingston Technology KTD-PE432D8P/16G",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 332
+  },
+  {
+    "name": "Kingston Technology KTD-PE432E/16G",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 333
+  },
+  {
+    "name": "Kingston Technology KTD-PE432E/32G",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 334
+  },
+  {
+    "name": "Kingston Technology KTD-PE432E/8G",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 335
+  },
+  {
+    "name": "Kingston Technology KTD-PE432ES8/16G",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 336
+  },
+  {
+    "name": "Kingston Technology KTD-PE548D4-64G",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "64 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 337
+  },
+  {
+    "name": "Kingston Technology KTD-PE548D8-32G",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 338
+  },
+  {
+    "name": "Kingston Technology KTD-PE548E-16G",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 339
+  },
+  {
+    "name": "Kingston Technology KTD-PE548E-32G",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 340
+  },
+  {
+    "name": "Kingston Technology KTD-PE548S4-32G",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 341
+  },
+  {
+    "name": "Kingston Technology KTD-PE548S8-16G",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 342
+  },
+  {
+    "name": "Kingston Technology KTH-PL432D8P/16G",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 343
+  },
+  {
+    "name": "Kingston Technology KTH-PL432S8/8G",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 344
+  },
+  {
+    "name": "Kingston Technology KTH-PL548D4-64G",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "64 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 345
+  },
+  {
+    "name": "Kingston Technology KTH-PL548D8-32G",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 346
+  },
+  {
+    "name": "Kingston Technology KTH-PL548E-16G",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 347
+  },
+  {
+    "name": "Kingston Technology KTH-PL548E-32G",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 348
+  },
+  {
+    "name": "Kingston Technology KTH-PL548S4-32G",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 349
+  },
+  {
+    "name": "Kingston Technology KTH-PL548S8-16G",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 350
+  },
+  {
+    "name": "Kingston Technology KTL-TS426E/32G",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "2666",
+    "timings": "19",
+    "id": 351
+  },
+  {
+    "name": "Kingston Technology KTL-TS432D8P/16G",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 352
+  },
+  {
+    "name": "Kingston Technology KTL-TS432S8/8G",
+    "producer": "Kingston Technology",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 353
+  },
+  {
+    "name": "Kingston Technology KTL-TS548D4-64G",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "64 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 354
+  },
+  {
+    "name": "Kingston Technology KTL-TS548D8-32G",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 355
+  },
+  {
+    "name": "Kingston Technology KTL-TS548E-16G",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 356
+  },
+  {
+    "name": "Kingston Technology KTL-TS548E-32G",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 357
+  },
+  {
+    "name": "Kingston Technology KTL-TS548S4-32G",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 358
+  },
+  {
+    "name": "Kingston Technology KTL-TS548S8-16G",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 359
+  },
+  {
+    "name": "Kingston Technology ValueRAM KCP556UD8-48",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "48 GB",
+    "clock": "5600",
+    "timings": "46",
+    "id": 360
+  },
+  {
+    "name": "Kingston Technology ValueRAM KVR48U40BD8-32",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 361
+  },
+  {
+    "name": "Kingston Technology ValueRAM KVR48U40BS6-8",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "8 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 362
+  },
+  {
+    "name": "Kingston Technology ValueRAM KVR52U42BD8-32",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "5200",
+    "timings": "42",
+    "id": 363
+  },
+  {
+    "name": "Kingston Technology ValueRAM KVR52U42BS6-8",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "8 GB",
+    "clock": "5200",
+    "timings": "42",
+    "id": 364
+  },
+  {
+    "name": "Kingston Technology ValueRAM KVR52U42BS8-16",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "5200",
+    "timings": "42",
+    "id": 365
+  },
+  {
+    "name": "Kingston Technology ValueRAM KVR56U46BD8-32",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "5600",
+    "timings": "46",
+    "id": 366
+  },
+  {
+    "name": "Kingston Technology ValueRAM KVR56U46BS6-8",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "8 GB",
+    "clock": "5600",
+    "timings": "46",
+    "id": 367
+  },
+  {
+    "name": "Kingston Technology ValueRAM KVR56U46BS8-16",
+    "producer": "Kingston Technology",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "5600",
+    "timings": "46",
+    "id": 368
+  },
+  {
+    "name": "Kingston Value  DDR4-2133  CL15 reg. ECC",
+    "producer": "Kingston",
+    "ramType": "DDR4",
+    "size": "4 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 369
+  },
+  {
+    "name": "Kingston Value  DDR4-2133  CL15 reg. ECC",
+    "producer": "Kingston",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 370
+  },
+  {
+    "name": "Kingston Value  DDR4-2133  CL15 reg. ECC",
+    "producer": "Kingston",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 371
+  },
+  {
+    "name": "Kingston Value  DDR4-2133 CL15 ECC, registriert",
+    "producer": "Kingston",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "2133",
+    "timings": "N/A",
+    "id": 372
+  },
+  {
+    "name": "Kingston Value  DDR4-2400  CL17",
+    "producer": "Kingston",
+    "ramType": "DDR4",
+    "size": "4 GB",
+    "clock": "2400",
+    "timings": "N/A",
+    "id": 373
+  },
+  {
+    "name": "Samsung DDR4-2666",
+    "producer": "SAMSUNG",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "2666",
+    "timings": "19",
+    "id": 374
+  },
+  {
+    "name": "Samsung M321R4GA0BB0-CQK",
+    "producer": "Samsung",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 375
+  },
+  {
+    "name": "Samsung M321R4GA3BB6-CQK",
+    "producer": "Samsung",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "4800",
+    "timings": "N/A",
+    "id": 376
+  },
+  {
+    "name": "Samsung M321RAGA0B20-CWK",
+    "producer": "Samsung",
+    "ramType": "DDR5",
+    "size": "128 GB",
+    "clock": "4800",
+    "timings": "46",
+    "id": 377
+  },
+  {
+    "name": "Samsung M321RBGA0B40-CWK",
+    "producer": "Samsung",
+    "ramType": "DDR5",
+    "size": "256 GB",
+    "clock": "4800",
+    "timings": "46",
+    "id": 378
+  },
+  {
+    "name": "Samsung M323R1GB4BB0-CQK",
+    "producer": "Samsung",
+    "ramType": "DDR5",
+    "size": "8 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 379
+  },
+  {
+    "name": "Samsung M323R4GA3BB0-CQK",
+    "producer": "Samsung",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "4800",
+    "timings": "40",
+    "id": 380
+  },
+  {
+    "name": "Samsung M324R2GA3BB0-CQK",
+    "producer": "Samsung",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "4800",
+    "timings": "22",
+    "id": 381
+  },
+  {
+    "name": "Samsung M324R4GA3BB0-CQK",
+    "producer": "Samsung",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "4800",
+    "timings": "22",
+    "id": 382
+  },
+  {
+    "name": "Samsung M378A2K43EB1-CWE",
+    "producer": "Samsung",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3200",
+    "timings": "N/A",
+    "id": 383
+  },
+  {
+    "name": "Samsung M391A2G43BB2-CWE",
+    "producer": "Samsung",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3200",
+    "timings": "N/A",
+    "id": 384
+  },
+  {
+    "name": "Samsung M391A4G43BB1-CWE",
+    "producer": "Samsung",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 385
+  },
+  {
+    "name": "Samsung M393A2K40EB3-CWE",
+    "producer": "Samsung",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3200",
+    "timings": "N/A",
+    "id": 386
+  },
+  {
+    "name": "Samsung RDIMM",
+    "producer": "SAMSUNG",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 387
+  },
+  {
+    "name": "Samsung RDIMM",
+    "producer": "SAMSUNG",
+    "ramType": "DDR4",
+    "size": "128 GB",
+    "clock": "3200",
+    "timings": "26",
+    "id": 388
+  },
+  {
+    "name": "Samsung RDIMM",
+    "producer": "SAMSUNG",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 389
+  },
+  {
+    "name": "Samsung RDIMM",
+    "producer": "SAMSUNG",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 390
+  },
+  {
+    "name": "Samsung RDIMM",
+    "producer": "SAMSUNG",
+    "ramType": "DDR4",
+    "size": "64 GB",
+    "clock": "3200",
+    "timings": "22",
+    "id": 391
+  },
+  {
+    "name": "Samsung Server DIMM",
+    "producer": "SAMSUNG",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "2666",
+    "timings": "19",
+    "id": 392
+  },
+  {
+    "name": "Team Group Elite Series black",
+    "producer": "Team Group",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2400",
+    "timings": "16",
+    "id": 393
+  },
+  {
+    "name": "Team Group T-Force Vulcan Series grey",
+    "producer": "Team Group",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2400",
+    "timings": "15",
+    "id": 394
+  },
+  {
+    "name": "Team Group T-Force Vulcan Series red",
+    "producer": "Team Group",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "2400",
+    "timings": "15",
+    "id": 395
+  },
+  {
+    "name": "XPG CASTER DDR5",
+    "producer": "XPG",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "6000",
+    "timings": "30",
+    "id": 396
+  },
+  {
+    "name": "XPG CASTER DDR5",
+    "producer": "XPG",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "6400",
+    "timings": "39",
+    "id": 397
+  },
+  {
+    "name": "XPG CASTER DDR5",
+    "producer": "XPG",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "6400",
+    "timings": "32",
+    "id": 398
+  },
+  {
+    "name": "XPG CASTER RGB",
+    "producer": "XPG",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "6000",
+    "timings": "30",
+    "id": 399
+  },
+  {
+    "name": "XPG CASTER RGB DDR5",
+    "producer": "XPG",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "6400",
+    "timings": "32",
+    "id": 400
+  },
+  {
+    "name": "XPG GAMMIX D10",
+    "producer": "XPG",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3600",
+    "timings": "18",
+    "id": 401
+  },
+  {
+    "name": "XPG GAMMIX D10",
+    "producer": "XPG",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3000",
+    "timings": "16",
+    "id": 402
+  },
+  {
+    "name": "XPG GAMMIX D10",
+    "producer": "XPG",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3600",
+    "timings": "18",
+    "id": 403
+  },
+  {
+    "name": "XPG GAMMIX D20",
+    "producer": "XPG",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3200",
+    "timings": "16",
+    "id": 404
+  },
+  {
+    "name": "XPG GAMMIX D20",
+    "producer": "XPG",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3600",
+    "timings": "18",
+    "id": 405
+  },
+  {
+    "name": "XPG LANCER BLADE DDR5",
+    "producer": "XPG",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "6000",
+    "timings": "30",
+    "id": 406
+  },
+  {
+    "name": "XPG LANCER BLADE DDR5",
+    "producer": "XPG",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "6000",
+    "timings": "48",
+    "id": 407
+  },
+  {
+    "name": "XPG LANCER BLADE DDR5",
+    "producer": "XPG",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "6000",
+    "timings": "48",
+    "id": 408
+  },
+  {
+    "name": "XPG LANCER BLADE DDR5",
+    "producer": "XPG",
+    "ramType": "DDR5",
+    "size": "8 GB",
+    "clock": "5600",
+    "timings": "46",
+    "id": 409
+  },
+  {
+    "name": "XPG LANCER BLADE DDR5",
+    "producer": "XPG",
+    "ramType": "DDR5",
+    "size": "8 GB",
+    "clock": "5600",
+    "timings": "46",
+    "id": 410
+  },
+  {
+    "name": "XPG LANCER BLADE RGB DDR5",
+    "producer": "XPG",
+    "ramType": "DDR5",
+    "size": "8 GB",
+    "clock": "5600",
+    "timings": "46",
+    "id": 411
+  },
+  {
+    "name": "XPG LANCER BLADE RGB DDR5",
+    "producer": "XPG",
+    "ramType": "DDR5",
+    "size": "8 GB",
+    "clock": "5600",
+    "timings": "46",
+    "id": 412
+  },
+  {
+    "name": "XPG LANCER DDR5",
+    "producer": "XPG",
+    "ramType": "DDR5",
+    "size": "32 GB",
+    "clock": "6000",
+    "timings": "30",
+    "id": 413
+  },
+  {
+    "name": "XPG LANCER NEON RGB DDR5",
+    "producer": "XPG",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "6400",
+    "timings": "32",
+    "id": 414
+  },
+  {
+    "name": "XPG LANCER RGB DDR5",
+    "producer": "XPG",
+    "ramType": "DDR5",
+    "size": "16 GB",
+    "clock": "6000",
+    "timings": "30",
+    "id": 415
+  },
+  {
+    "name": "XPG SPECTRIX D50",
+    "producer": "XPG",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3600",
+    "timings": "18",
+    "id": 416
+  },
+  {
+    "name": "XPG SPECTRIX D50",
+    "producer": "XPG",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3200",
+    "timings": "16",
+    "id": 417
+  },
+  {
+    "name": "XPG SPECTRIX D50",
+    "producer": "XPG",
+    "ramType": "DDR4",
+    "size": "32 GB",
+    "clock": "3600",
+    "timings": "18",
+    "id": 418
+  },
+  {
+    "name": "XPG SPECTRIX D50",
+    "producer": "XPG",
+    "ramType": "DDR4",
+    "size": "8 GB",
+    "clock": "3600",
+    "timings": "18",
+    "id": 419
+  },
+  {
+    "name": "XPG SPECTRIX D50",
+    "producer": "XPG",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3000",
+    "timings": "16",
+    "id": 420
+  },
+  {
+    "name": "XPG SPECTRIX D60G",
+    "producer": "XPG",
+    "ramType": "DDR4",
+    "size": "16 GB",
+    "clock": "3000",
+    "timings": "16",
+    "id": 421
+  }
+]
