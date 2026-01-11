@@ -3,7 +3,7 @@ import { BsFillMotherboardFill, BsCpuFill, BsMemory, BsGpuCard } from "react-ico
 import { ImPowerCord } from "react-icons/im";
 import { GrPowerReset } from "react-icons/gr";
 import { useEffect, useState } from "react";
-import MenuSection from "./menuSection";
+import MenuSection from "./MenuSection";
 import { useCompContext } from "../contexts/CompContext";
 
 const Menu = () => {
