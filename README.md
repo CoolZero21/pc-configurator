@@ -8,7 +8,6 @@ A modern, interactive 3D PC building simulator built with React and Three.js. Th
 - **Component Selection**: Choose from CPUs, GPUs, RAM, Motherboards, and PSUs with real data.
 - **Filtering & Comparison**: Filter components by specs and compare multiple items side-by-side.
 - **Save & Export**: Save configurations to localStorage and export PC images as JPEG.
-- **Responsive Design**: Optimized for desktop with smooth animations and particle effects.
 
 ## Technologies Used
 
